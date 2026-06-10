@@ -2,7 +2,7 @@ name: regulatory-monitor
 
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "0 10 * * 1"
   workflow_dispatch:
 
 permissions:
