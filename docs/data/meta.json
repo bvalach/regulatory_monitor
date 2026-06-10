@@ -1,0 +1,29 @@
+{
+  "ultima_ejecucion": "2026-06-10T09:58:25Z",
+  "ventana_consulta": {
+    "desde": "2026-06-01",
+    "hasta": "2026-06-10"
+  },
+  "digest_reciente": "2026-W23",
+  "anios_disponibles": [
+    2026
+  ],
+  "recuentos": {
+    "items_total": 6,
+    "items_nuevos": 6
+  },
+  "fuentes": {
+    "BOE": {
+      "estado": "ok",
+      "items": 2469
+    },
+    "EUR-Lex": {
+      "estado": "ok",
+      "items": 171
+    },
+    "EFSA": {
+      "estado": "ok",
+      "items": 15
+    }
+  }
+}

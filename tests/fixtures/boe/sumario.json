@@ -1,0 +1,39 @@
+{
+  "status": {"code": "200", "text": "ok"},
+  "data": {
+    "sumario": {
+      "metadatos": {"publicacion": "BOE", "fecha_publicacion": "20260603"},
+      "diario": [
+        {
+          "seccion": [
+            {
+              "nombre": "I. Disposiciones generales",
+              "departamento": {
+                "texto": {
+                  "epigrafe": [
+                    {
+                      "nombre": "Alimentación",
+                      "item": {
+                        "identificador": "BOE-A-2026-01234",
+                        "titulo": "Real Decreto 100/2026, por el que se modifica la norma de calidad de los productos cárnicos.",
+                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-01234"
+                      }
+                    },
+                    {
+                      "nombre": "Personal",
+                      "item": {
+                        "identificador": "BOE-A-2026-99999",
+                        "titulo": "Resolución por la que se anuncia un nombramiento universitario.",
+                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-99999"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

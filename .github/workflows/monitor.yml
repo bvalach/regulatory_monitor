@@ -1,0 +1,43 @@
+name: regulatory-monitor
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: monitor
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest
+
+      - name: Run pipeline
+        run: python -m pipeline
+
+      - name: Commit generated data
+        run: |
+          if [ -n "$(git status --porcelain docs/data digests)" ]; then
+            git config user.name "regulatory-monitor bot"
+            git config user.email "actions@github.com"
+            git add docs/data digests
+            git commit -m "Update regulatory monitor data"
+            git push
+          else
+            echo "No generated data changes."
+          fi

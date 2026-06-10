@@ -1,0 +1,45 @@
+# macOS / sistema
+.DS_Store
+._*
+
+# Entornos locales y secretos
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+
+# Empaquetado / builds locales
+build/
+dist/
+*.egg-info/
+
+# Logs y salidas temporales
+*.log
+tmp/
+temp/
+
+# Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencias JS si se usa tooling local para revisar el frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Histórico · Monitor regulatorio cárnico</title>
+    <meta name="description" content="Histórico filtrable de novedades regulatorias para CNAE 10.13.">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="assets/estilos.css">
+    <script src="assets/app.js" defer></script>
+    <script src="assets/historico.js" defer></script>
+  </head>
+  <body data-page="historico">
+    <header class="site-header">
+      <div class="wrap header-grid">
+        <div>
+          <p class="eyebrow">Archivo consultable</p>
+          <h1>Histórico regulatorio</h1>
+          <p class="lead">Búsqueda y filtros sobre los ítems detectados por el pipeline determinista.</p>
+        </div>
+        <nav class="nav" aria-label="Navegación principal">
+          <a href="index.html">Digest</a>
+          <a aria-current="page" href="historico.html">Histórico</a>
+          <a href="metodologia.html">Metodología</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="filters" aria-labelledby="filtros-title">
+        <div class="filters-heading">
+          <h2 id="filtros-title">Filtros</h2>
+          <p id="contador-resultados" aria-live="polite">Cargando histórico...</p>
+        </div>
+        <div class="filters-grid">
+          <label class="field">
+            Año
+            <select id="filtro-anio"></select>
+          </label>
+          <label class="field">
+            Fuente
+            <select id="filtro-fuente">
+              <option value="">Todas</option>
+            </select>
+          </label>
+          <label class="field">
+            Tipo
+            <select id="filtro-tipo">
+              <option value="">Todos</option>
+            </select>
+          </label>
+          <label class="field">
+            Tema
+            <select id="filtro-tema">
+              <option value="">Todos</option>
+            </select>
+          </label>
+          <label class="field wide">
+            Buscar
+            <input id="filtro-texto" type="search" placeholder="Título o extracto">
+          </label>
+          <label class="field">
+            Orden
+            <select id="orden">
+              <option value="fecha-desc">Fecha reciente</option>
+              <option value="score-desc">Score alto</option>
+              <option value="fecha-asc">Fecha antigua</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section aria-labelledby="resultados-title">
+        <h2 id="resultados-title" class="visually-hidden">Resultados</h2>
+        <div id="resultados" class="results"></div>
+        <p id="estado-vacio" class="empty" hidden>Ningún resultado con estos filtros.</p>
+        <button id="mostrar-mas" class="secondary" type="button" hidden>Mostrar más</button>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap footer-grid">
+        <p>Este sitio es informativo y no constituye asesoramiento jurídico; verifique siempre la fuente oficial.</p>
+        <p><a href="https://github.com/beatrizvallina/regulatory_monitor">Repositorio GitHub</a> · Bea Vallina · MIT</p>
+      </div>
+    </footer>
+  </body>
+</html>

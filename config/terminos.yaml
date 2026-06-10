@@ -1,0 +1,111 @@
+umbral: 8
+ventana_dias: 9
+
+temas:
+  higiene_seguridad:
+    etiqueta: "Higiene y seguridad alimentaria"
+    terminos:
+      - {t: "higiene alimentaria", peso: 6, en: "food hygiene"}
+      - {t: "seguridad alimentaria", peso: 5, en: "food safety"}
+      - {t: "listeria", peso: 10}
+      - {t: "salmonella", peso: 9}
+      - {t: "controles oficiales", peso: 8, en: "official controls"}
+      - {t: "productos carnicos", peso: 10, en: "meat products"}
+      - {t: "carne", peso: 6, en: "meat"}
+      - {t: "volateria", peso: 8, en: "poultry meat"}
+      - {t: "matadero", peso: 7, en: "slaughterhouse"}
+
+  aditivos_contaminantes:
+    etiqueta: "Aditivos y contaminantes"
+    terminos:
+      - {t: "nitritos", peso: 10, en: "nitrites"}
+      - {t: "nitratos", peso: 8, en: "nitrates"}
+      - {t: "aditivos", peso: 7, en: "additives"}
+      - {t: "contaminantes", peso: 8, en: "contaminants"}
+      - {t: "dioxinas", peso: 9, en: "dioxins"}
+      - {t: "pcbs", peso: 8, en: "pcbs"}
+      - {t: "limites maximos", peso: 7, en: "maximum levels"}
+      - {t: "enzima alimentaria", peso: 3, en: "food enzyme"}
+
+  etiquetado_consumidor:
+    etiqueta: "Etiquetado e información al consumidor"
+    terminos:
+      - {t: "etiquetado", peso: 4, en: "labelling"}
+      - {t: "informacion alimentaria", peso: 8, en: "food information"}
+      - {t: "consumidor", peso: 5, en: "consumer"}
+      - {t: "denominacion de venta", peso: 7}
+      - {t: "norma de calidad", peso: 8, en: "quality standard"}
+
+  bienestar_sanidad_animal:
+    etiqueta: "Bienestar animal y sanidad animal"
+    terminos:
+      - {t: "bienestar animal", peso: 9, en: "animal welfare"}
+      - {t: "sanidad animal", peso: 8, en: "animal health"}
+      - {t: "peste porcina africana", peso: 10, en: "african swine fever"}
+      - {t: "influenza aviar", peso: 9, en: "avian influenza"}
+      - {t: "transporte animal", peso: 7, en: "animal transport"}
+      - {t: "porcino", peso: 6, en: "swine"}
+
+  subproductos_sandach:
+    etiqueta: "Subproductos y SANDACH"
+    terminos:
+      - {t: "sandach", peso: 10}
+      - {t: "subproductos animales", peso: 9, en: "animal by-products"}
+      - {t: "subproductos de origen animal", peso: 9}
+      - {t: "material especificado de riesgo", peso: 8}
+
+  envases_sostenibilidad:
+    etiqueta: "Envases y sostenibilidad"
+    terminos:
+      - {t: "envases", peso: 8, en: "packaging"}
+      - {t: "residuos de envases", peso: 8, en: "packaging waste"}
+      - {t: "ppwr", peso: 8}
+      - {t: "plasticos", peso: 5, en: "plastics"}
+      - {t: "sostenibilidad", peso: 2, en: "sustainability"}
+
+  comercio_exterior:
+    etiqueta: "Comercio exterior y aranceles"
+    terminos:
+      - {t: "arancel", peso: 5, en: "tariff"}
+      - {t: "exportacion", peso: 2, en: "export"}
+      - {t: "importacion", peso: 3, en: "import"}
+      - {t: "certificado sanitario", peso: 8, en: "health certificate"}
+      - {t: "contingente arancelario", peso: 9, en: "tariff quota"}
+
+  ayudas_fiscalidad:
+    etiqueta: "Ayudas, subvenciones y fiscalidad sectorial"
+    terminos:
+      - {t: "subvenciones", peso: 1, en: "grants"}
+      - {t: "ayudas", peso: 1, en: "state aid"}
+      - {t: "industria alimentaria", peso: 8, en: "food industry"}
+      - {t: "sector carnico", peso: 9, en: "meat sector"}
+      - {t: "pyme", peso: 5, en: "sme"}
+
+  otros:
+    etiqueta: "Otros"
+    terminos:
+      - {t: "cnae 10.13", peso: 10}
+      - {t: "industria carnica", peso: 9}
+      - {t: "elaboracion de productos carnicos", peso: 10}
+      - {t: "cerdo iberico", peso: 9, en: "iberian pork"}
+      - {t: "jamon iberico", peso: 9, en: "iberian ham"}
+
+exclusiones:
+  - "nombramiento"
+  - "jubilacion"
+  - "becas universitarias"
+  - "universidad"
+  - "comunidad de regantes"
+  - "licitacion de obras"
+  - "anuncio de licitacion"
+  - "anuncio de formalizacion de contratos"
+  - "convocatoria de junta"
+  - "sentencia del tribunal"
+  - "procedimiento prejudicial"
+  - "constitucion del sindicato"
+  - "sindicato"
+  - "plant protection"
+  - "grapevine"
+  - "brassica napus"
+  - "amenity grassland"
+  - "sector vitivinicola"

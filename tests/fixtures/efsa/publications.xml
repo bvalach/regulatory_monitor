@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>EFSA | Publications</title>
+    <item>
+      <title>Update of the risk assessment on dioxins in food and meat products</title>
+      <link>https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10103</link>
+      <description>&lt;p&gt;EFSA updates the assessment of dioxins and contaminants in food.&lt;/p&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 10:57:31 +0200</pubDate>
+      <guid isPermaLink="false">b254eba5-2a07-4c9f-9ccf-4dcd4e49c295</guid>
+    </item>
+    <item>
+      <title>Plant protection consultation</title>
+      <link>https://efsa.example/plant</link>
+      <description>&lt;p&gt;Out of scope fixture.&lt;/p&gt;</description>
+      <pubDate>Wed, 20 May 2026 10:57:31 +0200</pubDate>
+      <guid isPermaLink="false">old</guid>
+    </item>
+  </channel>
+</rss>

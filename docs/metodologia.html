@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Metodología · Monitor regulatorio cárnico</title>
+    <meta name="description" content="Metodología, fuentes, filtrado y uso de IA generativa en el monitor regulatorio.">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="assets/estilos.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-grid">
+        <div>
+          <p class="eyebrow">Transparencia técnica</p>
+          <h1>Metodología</h1>
+          <p class="lead">Cómo se ingieren, filtran y publican las novedades sin usar IA generativa en ejecución.</p>
+        </div>
+        <nav class="nav" aria-label="Navegación principal">
+          <a href="index.html">Digest</a>
+          <a href="historico.html">Histórico</a>
+          <a aria-current="page" href="metodologia.html">Metodología</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap prose">
+      <section>
+        <h2>Flujo del sistema</h2>
+        <img class="pipeline-figure" src="assets/pipeline.svg" alt="Fuentes públicas, pipeline determinista, JSON y GitHub Pages.">
+        <p>El observatorio se ejecuta semanalmente con GitHub Actions. Consulta fuentes públicas, normaliza los ítems, aplica reglas de filtrado y guarda JSON versionados en el repositorio. GitHub Pages sirve esos JSON desde <code>docs/data/</code>.</p>
+      </section>
+
+      <section>
+        <h2>Fuentes</h2>
+        <ul>
+          <li><strong>BOE:</strong> API de datos abiertos de sumarios diarios. Se trata como fuente normativa española.</li>
+          <li><strong>EUR-Lex / DOUE:</strong> endpoint SPARQL público de CELLAR con títulos en español y fechas de documento. Se trata como fuente normativa de la Unión Europea.</li>
+          <li><strong>EFSA:</strong> RSS público de publicaciones. Se muestra como evidencia científico-regulatoria, no como acto normativo.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Criterios de filtrado</h2>
+        <p>La configuración vive en <code>config/terminos.yaml</code>. Cada tema contiene términos con pesos. El texto se normaliza a minúsculas y sin tildes; una coincidencia en título pondera el doble. Un ítem se incluye sólo si supera el umbral configurado y no contiene una exclusión absoluta.</p>
+        <p>No hay modelos estadísticos ni modelos de lenguaje en runtime. La clasificación temática sale de los términos que han activado el score.</p>
+        <table class="score-table">
+          <thead>
+            <tr>
+              <th>Regla</th>
+              <th>Efecto en el score</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Término detectado en título</td>
+              <td>Peso configurado multiplicado por dos.</td>
+            </tr>
+            <tr>
+              <td>Término detectado en extracto oficial</td>
+              <td>Peso configurado sin multiplicador.</td>
+            </tr>
+            <tr>
+              <td>Varios términos relevantes</td>
+              <td>Suma de pesos; el ítem puede quedar en varios temas.</td>
+            </tr>
+            <tr>
+              <td>Exclusión absoluta</td>
+              <td>Descarta el ítem aunque haya puntuado.</td>
+            </tr>
+            <tr>
+              <td>Score por debajo del umbral</td>
+              <td>No se publica en el digest ni en el histórico filtrado.</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section>
+        <h2>Persistencia del histórico</h2>
+        <p>Los ítems filtrados se conservan como JSON versionados dentro del repositorio, junto con su fuente, URL oficial, fecha, temas, términos activados, score y extracto oficial. La política operativa de v1 es mantener, como mínimo, los últimos 24 meses de histórico público.</p>
+        <p>El sistema no almacena textos normativos completos: enlaza siempre a la fuente oficial y conserva sólo los metadatos necesarios para trazabilidad, búsqueda y reproducción del digest.</p>
+      </section>
+
+      <section>
+        <h2>Cómo se usó IA generativa</h2>
+        <p>La IA generativa se utilizó como herramienta de diseño, implementación y revisión, no como componente del monitor en ejecución. El plan de trabajo seguido fue:</p>
+        <ol>
+          <li><strong>Planificación y definición de arquitectura:</strong> discusión iterativa con Claude Fable 5 para delimitar alcance, fuentes, contratos de datos y restricciones del sistema.</li>
+          <li><strong>Revisión crítica de requisitos y arquitectura:</strong> contraste con GPT 5.5 xhigh para detectar ambigüedades, riesgos técnicos y puntos débiles antes de implementar.</li>
+          <li><strong>Implementación:</strong> desarrollo del pipeline, contratos JSON, tests y front-end base con GPT 5.5 high, manteniendo ejecución determinista y sin modelos generativos en runtime.</li>
+          <li><strong>Revisión del front-end:</strong> auditoría visual y funcional con Kimi K2.6 a través de opencode.</li>
+          <li><strong>Revisión final y ajustes:</strong> validación, correcciones y cierre con GPT 5.5 high.</li>
+        </ol>
+        <p>Las decisiones de alcance, aceptación y publicación se revisan humanamente. La ejecución semanal del monitor no invoca ningún modelo generativo.</p>
+        <p>El repositorio conserva la traza de diseño en <a href="https://github.com/beatrizvallina/regulatory_monitor/blob/main/AGENTS.md">AGENTS.md</a>, <a href="https://github.com/beatrizvallina/regulatory_monitor/blob/main/REQUISITOS.md">REQUISITOS.md</a> y <a href="https://github.com/beatrizvallina/regulatory_monitor/blob/main/ARQUITECTURA.md">ARQUITECTURA.md</a>.</p>
+      </section>
+
+      <section>
+        <h2>Limitaciones</h2>
+        <ul>
+          <li>La cobertura depende de sumarios, títulos y extractos oficiales; no sustituye una revisión jurídica completa.</li>
+          <li>Los términos son configurables, pero una regla puede omitir novedades relevantes si la fuente usa otra formulación.</li>
+          <li>Si una fuente cambia de formato o no responde, el pipeline sigue con el resto y marca la fuente como degradada.</li>
+          <li>El sitio es informativo y no constituye asesoramiento jurídico.</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap footer-grid">
+        <p>Este sitio es informativo y no constituye asesoramiento jurídico; verifique siempre la fuente oficial.</p>
+        <p><a href="https://github.com/beatrizvallina/regulatory_monitor">Repositorio GitHub</a> · Bea Vallina · MIT</p>
+      </div>
+    </footer>
+  </body>
+</html>

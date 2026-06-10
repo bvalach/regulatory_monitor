@@ -1,0 +1,17 @@
+{
+  "head": {"vars": ["work", "celex", "date", "title", "type"]},
+  "results": {
+    "bindings": [
+      {
+        "celex": {"type": "literal", "value": "32026R0123"},
+        "date": {"type": "literal", "value": "2026-06-04"},
+        "title": {
+          "type": "literal",
+          "xml:lang": "es",
+          "value": "Reglamento (UE) 2026/123 relativo a los nitritos en productos cárnicos###"
+        },
+        "type": {"type": "literal", "value": "R"}
+      }
+    ]
+  }
+}
