@@ -1,25 +1,26 @@
 {
-  "ultima_ejecucion": "2026-06-10T09:58:25Z",
+  "ultima_ejecucion": "2026-06-15T13:00:18Z",
   "ventana_consulta": {
-    "desde": "2026-06-01",
-    "hasta": "2026-06-10"
+    "desde": "2026-06-06",
+    "hasta": "2026-06-15"
   },
-  "digest_reciente": "2026-W23",
+  "digest_reciente": "2026-W24",
   "anios_disponibles": [
     2026
   ],
   "recuentos": {
-    "items_total": 6,
-    "items_nuevos": 6
+    "items_total": 8,
+    "items_nuevos": 2
   },
   "fuentes": {
     "BOE": {
-      "estado": "ok",
-      "items": 2469
+      "estado": "degradada",
+      "items": 0,
+      "detalle": "20260606: <urlopen error timed out>; 20260607: <urlopen error timed out>; 20260608: <urlopen error timed out>"
     },
     "EUR-Lex": {
       "estado": "ok",
-      "items": 171
+      "items": 132
     },
     "EFSA": {
       "estado": "ok",

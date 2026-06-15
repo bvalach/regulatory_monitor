@@ -1,0 +1,168 @@
+{
+  "id": "2026-W24",
+  "desde": "2026-06-08",
+  "hasta": "2026-06-14",
+  "generado_en": "2026-06-15T13:00:18Z",
+  "estado_fuentes": {
+    "BOE": {
+      "estado": "degradada",
+      "items": 0,
+      "detalle": "20260606: <urlopen error timed out>; 20260607: <urlopen error timed out>; 20260608: <urlopen error timed out>"
+    },
+    "EUR-Lex": {
+      "estado": "ok",
+      "items": 132
+    },
+    "EFSA": {
+      "estado": "ok",
+      "items": 15
+    }
+  },
+  "sin_novedades": false,
+  "temas": [
+    {
+      "id": "higiene_seguridad",
+      "etiqueta": "Higiene y seguridad alimentaria",
+      "items": [
+        {
+          "id": "celex-32026R1344",
+          "fuente": "EUR-Lex",
+          "tipo": "reglamento",
+          "titulo": "Reglamento de Ejecución (UE) 2026/1344 de la Comisión, de 11 de junio de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a Canadá, Chile y los Estados Unidos en las listas de terceros países, territorios o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral, productos reproductivos de aves de corral y carne fresca de aves de corral y aves de caza",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R1344",
+          "fecha_publicacion": "2026-06-11",
+          "fecha_captura": "2026-06-15T13:00:18Z",
+          "temas": [
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "carne"
+          ],
+          "score": 12,
+          "extracto": "Reglamento de Ejecución (UE) 2026/1344 de la Comisión, de 11 de junio de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a Canadá, Chile y los Estados Unidos en las listas de terceros países, territorios o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral, productos reproductivos de aves de corral y carne fresca de aves de corral y aves de caza"
+        },
+        {
+          "id": "efsa-10.2903_sp.efsa.2026.EN-10157",
+          "fuente": "EFSA",
+          "tipo": "opinion_cientifica",
+          "titulo": "Model development to predict environmental concentrations of chemical substances in marine sediment when the substance is applied via feed in marine aquaculture: Task 1.4. Model setup and analysis",
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10157",
+          "fecha_publicacion": "2026-06-10",
+          "fecha_captura": "2026-06-15T13:00:18Z",
+          "temas": [
+            "aditivos_contaminantes",
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "additives",
+            "food safety"
+          ],
+          "score": 12,
+          "extracto": "The European Food Safety Authority (EFSA) assesses the safety of fish feed additives used in aquaculture. To evaluate their potential environmental risks, it is essential to calculate the predicted environmental concentrations (PEC) and compare them to known exposure thresholds. This report outlines the setup and analysis of a model established in earlier phases of the project to get it functioning with default data and parameter sets, and to explore its sensitivity and applicability. The model is configured using environmental input data (derived from large‐scale ocean and atmosphere models across Europe) and applies standardised parameter sets representing the most common finfish aquaculture species (salmon, sea bass, and sea bream). It is implemented within a containerised system, ensuring portability and ease of deployment across computing environments. The automated modelling pipeline is broadly applicable, although performance can be challenged in areas with complex bathymetry; in these cases, targeted adjustments to default settings and workflow configurations have been explored. Model results indicate that predicted environmental concentrations (PECs) are sensitive to specific parameters, particularly those governing sediment consolidation and additive mixing depth. These parameters should therefore be prioritised in future calibration and validation efforts. The approach adopts high‐resolution, process‐based modelling across a range of representative environmental conditions to derive PEC estimates. Compared with more simplified (idealised) modelling approaches, this framework better reflects real‐world conditions, enables direct comparison with site‐specific observations, and produces outputs that are more readily interpretable for end users and decision‐makers. However, these advantages come with practical challenges, including the need to ensure robust automation across diverse environmental settings and the potential for bias in the selection of representative sites."
+        },
+        {
+          "id": "celex-32026R1220",
+          "fuente": "EUR-Lex",
+          "tipo": "reglamento",
+          "titulo": "Reglamento de Ejecución (UE) 2026/1220 de la Comisión, de 9 de junio de 2026, por el que se modifican los anexos XIV y XV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a Bosnia y Herzegovina en las listas de terceros países o territorios, o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de carne fresca de aves de corral y de productos cárnicos de aves de corral",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R1220",
+          "fecha_publicacion": "2026-06-09",
+          "fecha_captura": "2026-06-10T09:58:25Z",
+          "temas": [
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "carne",
+            "productos carnicos"
+          ],
+          "score": 32,
+          "extracto": "Reglamento de Ejecución (UE) 2026/1220 de la Comisión, de 9 de junio de 2026, por el que se modifican los anexos XIV y XV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a Bosnia y Herzegovina en las listas de terceros países o territorios, o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de carne fresca de aves de corral y de productos cárnicos de aves de corral"
+        },
+        {
+          "id": "celex-32026R1206",
+          "fuente": "EUR-Lex",
+          "tipo": "reglamento",
+          "titulo": "Reglamento de Ejecución (UE) 2026/1206 de la Comisión, de 9 de junio de 2026, por el que se modifica el Reglamento de Ejecución (UE) 2019/1793 en lo que respecta al aumento temporal de los controles oficiales y las medidas de emergencia que regulan la entrada en la Unión de determinadas mercancías procedentes de determinados terceros países",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R1206",
+          "fecha_publicacion": "2026-06-09",
+          "fecha_captura": "2026-06-10T09:58:25Z",
+          "temas": [
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "controles oficiales"
+          ],
+          "score": 16,
+          "extracto": "Reglamento de Ejecución (UE) 2026/1206 de la Comisión, de 9 de junio de 2026, por el que se modifica el Reglamento de Ejecución (UE) 2019/1793 en lo que respecta al aumento temporal de los controles oficiales y las medidas de emergencia que regulan la entrada en la Unión de determinadas mercancías procedentes de determinados terceros países"
+        }
+      ]
+    },
+    {
+      "id": "aditivos_contaminantes",
+      "etiqueta": "Aditivos y contaminantes",
+      "items": [
+        {
+          "id": "efsa-10.2903_j.efsa.2026.10103",
+          "fuente": "EFSA",
+          "tipo": "opinion_cientifica",
+          "titulo": "Update of the risk assessment on dioxins and dioxin-like PCBs in feed and food",
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10103",
+          "fecha_publicacion": "2026-06-10",
+          "fecha_captura": "2026-06-10T09:58:25Z",
+          "temas": [
+            "aditivos_contaminantes"
+          ],
+          "terminos": [
+            "dioxins",
+            "pcbs"
+          ],
+          "score": 50,
+          "extracto": "The European Commission asked EFSA to update its 2018 risk assessment on polychlorinated dibenzo‐p‐dioxins and dibenzofurans (PCDD/Fs) and dioxin‐like polychlorinated biphenyls (DL‐PCBs) in feed and food, based on the 2022 WHO Toxic Equivalency Factors (WHO 2022 ‐TEFs). A decrease in sperm concentrations as a consequence of early‐life exposure was still considered the critical effect in rodents and humans. This can only be prevented by ensuring sufficiently low exposure to PCDD/Fs and DL‐PCBs of future mothers. Using the WHO 2022 ‐TEFs, the critical human study in the 2018 Opinion still showed a significant inverse association between PCDD/Fs and sperm concentration, but not when including DL‐PCBs. Therefore, this study was not used to derive a Tolerable Weekly intake (TWI). Instead, a developmental study with TCDD in rats was used to derive a TWI of 0.6 pg. WHO 2022 ‐toxic equivalents (TEQ)/kg bw per week, based on decreased sperm production. Human studies were used as supporting evidence, including an evaluation of necessary uncertainty factors. Dietary exposure assessment based on occurrence data in food from the last decade, showed that using the new TEFs resulted in 27%–35% lower total‐TEQ exposure. Mean exposure (lower to upper bound) to PCDD/Fs and DL‐PCBs for European adult populations varied between 1.87 and 6.10 pg. WHO 2022 ‐TEQ/kg bw per week, and at the P95 between 4.15 and 12.0 pg. WHO 2022 ‐TEQ/kg bw per week. The CONTAM Panel concluded that exposure for European women of childbearing age raises a health concern for their sons at the mean (80%–90% certainty) and P95 (95%–99% certainty) exposure. Including uncertainties regarding the TEFs for DL‐PCBs decreased this certainty. Human milk data confirmed the exceedance of the TWI but to a lesser extent than dietary exposure. The change in TEFs does not affect the transfer rates of individual congeners but it could impact the transfer rates when using Total‐TEQ levels."
+        },
+        {
+          "id": "efsa-10.2903_sp.efsa.2026.EN-10157",
+          "fuente": "EFSA",
+          "tipo": "opinion_cientifica",
+          "titulo": "Model development to predict environmental concentrations of chemical substances in marine sediment when the substance is applied via feed in marine aquaculture: Task 1.4. Model setup and analysis",
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10157",
+          "fecha_publicacion": "2026-06-10",
+          "fecha_captura": "2026-06-15T13:00:18Z",
+          "temas": [
+            "aditivos_contaminantes",
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "additives",
+            "food safety"
+          ],
+          "score": 12,
+          "extracto": "The European Food Safety Authority (EFSA) assesses the safety of fish feed additives used in aquaculture. To evaluate their potential environmental risks, it is essential to calculate the predicted environmental concentrations (PEC) and compare them to known exposure thresholds. This report outlines the setup and analysis of a model established in earlier phases of the project to get it functioning with default data and parameter sets, and to explore its sensitivity and applicability. The model is configured using environmental input data (derived from large‐scale ocean and atmosphere models across Europe) and applies standardised parameter sets representing the most common finfish aquaculture species (salmon, sea bass, and sea bream). It is implemented within a containerised system, ensuring portability and ease of deployment across computing environments. The automated modelling pipeline is broadly applicable, although performance can be challenged in areas with complex bathymetry; in these cases, targeted adjustments to default settings and workflow configurations have been explored. Model results indicate that predicted environmental concentrations (PECs) are sensitive to specific parameters, particularly those governing sediment consolidation and additive mixing depth. These parameters should therefore be prioritised in future calibration and validation efforts. The approach adopts high‐resolution, process‐based modelling across a range of representative environmental conditions to derive PEC estimates. Compared with more simplified (idealised) modelling approaches, this framework better reflects real‐world conditions, enables direct comparison with site‐specific observations, and produces outputs that are more readily interpretable for end users and decision‐makers. However, these advantages come with practical challenges, including the need to ensure robust automation across diverse environmental settings and the potential for bias in the selection of representative sites."
+        }
+      ]
+    },
+    {
+      "id": "envases_sostenibilidad",
+      "etiqueta": "Envases y sostenibilidad",
+      "items": [
+        {
+          "id": "celex-52026XC03084",
+          "fuente": "EUR-Lex",
+          "tipo": "reglamento",
+          "titulo": "Comunicación de la Comisión — Documento de orientación para el Reglamento (UE) 2025/40, sobre los envases y residuos de envases",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:52026XC03084",
+          "fecha_publicacion": "2026-06-10",
+          "fecha_captura": "2026-06-10T09:58:25Z",
+          "temas": [
+            "envases_sostenibilidad"
+          ],
+          "terminos": [
+            "envases",
+            "residuos de envases"
+          ],
+          "score": 32,
+          "extracto": "Comunicación de la Comisión — Documento de orientación para el Reglamento (UE) 2025/40, sobre los envases y residuos de envases"
+        }
+      ]
+    }
+  ]
+}

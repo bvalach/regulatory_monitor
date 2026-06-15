@@ -2,15 +2,16 @@
   "id": "2026-W23",
   "desde": "2026-06-01",
   "hasta": "2026-06-07",
-  "generado_en": "2026-06-10T09:58:25Z",
+  "generado_en": "2026-06-15T13:00:18Z",
   "estado_fuentes": {
     "BOE": {
-      "estado": "ok",
-      "items": 2469
+      "estado": "degradada",
+      "items": 0,
+      "detalle": "20260606: <urlopen error timed out>; 20260607: <urlopen error timed out>; 20260608: <urlopen error timed out>"
     },
     "EUR-Lex": {
       "estado": "ok",
-      "items": 171
+      "items": 132
     },
     "EFSA": {
       "estado": "ok",
@@ -39,30 +40,6 @@
           ],
           "score": 12,
           "extracto": "Reglamento de Ejecución (UE) 2026/1207 de la Comisión, de 2 de junio de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a Canadá, el Reino Unido y los Estados Unidos en las listas de terceros países y territorios, o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral y productos reproductivos de aves de corral y de carne fresca de aves de corral y aves de caza"
-        }
-      ]
-    },
-    {
-      "id": "envases_sostenibilidad",
-      "etiqueta": "Envases y sostenibilidad",
-      "items": [
-        {
-          "id": "celex-52026XC03084",
-          "fuente": "EUR-Lex",
-          "tipo": "reglamento",
-          "titulo": "Comunicación de la Comisión — Documento de orientación para el Reglamento (UE) 2025/40, sobre los envases y residuos de envases",
-          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:52026XC03084",
-          "fecha_publicacion": "2026-06-05",
-          "fecha_captura": "2026-06-10T09:58:25Z",
-          "temas": [
-            "envases_sostenibilidad"
-          ],
-          "terminos": [
-            "envases",
-            "residuos de envases"
-          ],
-          "score": 32,
-          "extracto": "Comunicación de la Comisión — Documento de orientación para el Reglamento (UE) 2025/40, sobre los envases y residuos de envases"
         }
       ]
     },
