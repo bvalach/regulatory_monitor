@@ -1,13 +1,21 @@
 {
-  "ultimo": "2026-W23",
+  "ultimo": "2026-W24",
   "digests": [
+    {
+      "id": "2026-W24",
+      "desde": "2026-06-08",
+      "hasta": "2026-06-14",
+      "json": "data/digests/2026-W24.json",
+      "markdown_repo_path": "digests/2026-W24.md",
+      "items": 7
+    },
     {
       "id": "2026-W23",
       "desde": "2026-06-01",
       "hasta": "2026-06-07",
       "json": "data/digests/2026-W23.json",
       "markdown_repo_path": "digests/2026-W23.md",
-      "items": 3
+      "items": 2
     }
   ]
 }
