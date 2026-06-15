@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 concurrency: monitor
 
@@ -31,9 +30,7 @@ jobs:
       - name: Run pipeline
         run: python -m pipeline
 
-      - name: Open data update pull request
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Publish generated data branch
         run: |
           if [ -n "$(git status --porcelain docs/data digests)" ]; then
             branch="automation/regulatory-monitor-data"
@@ -44,16 +41,16 @@ jobs:
             git commit -m "Update regulatory monitor data"
             git push --force origin "$branch"
 
-            pr_number="$(gh pr list --head "$branch" --base main --state open --json number --jq '.[0].number')"
-            if [ -n "$pr_number" ]; then
-              echo "Updated existing pull request #$pr_number."
-            else
-              gh pr create \
-                --base main \
-                --head "$branch" \
-                --title "Update regulatory monitor data" \
-                --body "Actualiza los JSON y digest generados por el monitor regulatorio."
-            fi
+            pr_url="https://github.com/${GITHUB_REPOSITORY}/pull/new/$branch"
+            echo "Generated data branch pushed: $branch"
+            echo "Open a pull request: $pr_url"
+            {
+              echo "### Regulatory monitor data update"
+              echo ""
+              echo "Generated data changes were pushed to \`$branch\`."
+              echo ""
+              echo "[Open pull request]($pr_url)"
+            } >> "$GITHUB_STEP_SUMMARY"
           else
             echo "No generated data changes."
           fi
