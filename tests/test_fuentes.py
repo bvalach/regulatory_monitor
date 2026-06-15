@@ -2,6 +2,7 @@ import json
 from datetime import date
 from pathlib import Path
 
+from pipeline.fuentes import boe
 from pipeline.fuentes.boe import parsear_sumario
 from pipeline.fuentes.efsa import parsear_rss
 from pipeline.fuentes.eurlex import parsear_resultado
@@ -20,6 +21,25 @@ def test_parsea_boe_con_objetos_y_listas():
     assert items[0].id == "boe-BOE-A-2026-01234"
     assert items[0].tipo == "real_decreto"
     assert items[0].fecha_publicacion == "2026-06-03"
+
+
+def test_boe_aborta_tras_errores_consecutivos(monkeypatch):
+    llamadas = []
+
+    def falla(*args, **kwargs):
+        llamadas.append(args[0])
+        raise RuntimeError("timeout")
+
+    monkeypatch.setattr(boe, "get_json", falla)
+
+    resultado = boe.obtener(
+        Ventana(date(2026, 6, 1), date(2026, 6, 10)),
+        "2026-06-10T08:00:00Z",
+    )
+
+    assert resultado.estado == "degradada"
+    assert len(llamadas) == boe.MAX_ERRORES_CONSECUTIVOS
+    assert "consulta abortada" in resultado.detalle
 
 
 def test_parsea_eurlex_y_limpia_titulo():

@@ -10,13 +10,15 @@ from . import fecha_iso_desde_aaaammdd
 
 
 URL_SUMARIO = "https://www.boe.es/datosabiertos/api/boe/sumario/{fecha}"
-TIMEOUT_SEGUNDOS = 8
-REINTENTOS = 0
+TIMEOUT_SEGUNDOS = 12
+REINTENTOS = 1
+MAX_ERRORES_CONSECUTIVOS = 3
 
 
 def obtener(ventana: Ventana, capturado_en: str) -> ResultadoFuente:
     items: List[Item] = []
     errores: List[str] = []
+    errores_consecutivos = 0
     dia = ventana.desde
     while dia <= ventana.hasta:
         fecha = dia.strftime("%Y%m%d")
@@ -28,13 +30,22 @@ def obtener(ventana: Ventana, capturado_en: str) -> ResultadoFuente:
                 retries=REINTENTOS,
             )
             items.extend(parsear_sumario(data, capturado_en))
+            errores_consecutivos = 0
         except Exception as exc:
             if "HTTP Error 404" not in str(exc):
                 errores.append(f"{fecha}: {exc}")
+                errores_consecutivos += 1
+                if errores_consecutivos >= MAX_ERRORES_CONSECUTIVOS:
+                    errores.append(
+                        f"consulta abortada tras {MAX_ERRORES_CONSECUTIVOS} errores consecutivos"
+                    )
+                    break
+            else:
+                errores_consecutivos = 0
         dia += timedelta(days=1)
 
     if errores:
-        return ResultadoFuente("BOE", "degradada", items, "; ".join(errores[:3]))
+        return ResultadoFuente("BOE", "degradada", items, "; ".join(errores[:4]))
     return ResultadoFuente("BOE", "ok", items)
 
 
