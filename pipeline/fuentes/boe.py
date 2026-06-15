@@ -10,6 +10,8 @@ from . import fecha_iso_desde_aaaammdd
 
 
 URL_SUMARIO = "https://www.boe.es/datosabiertos/api/boe/sumario/{fecha}"
+TIMEOUT_SEGUNDOS = 8
+REINTENTOS = 0
 
 
 def obtener(ventana: Ventana, capturado_en: str) -> ResultadoFuente:
@@ -22,6 +24,8 @@ def obtener(ventana: Ventana, capturado_en: str) -> ResultadoFuente:
             data = get_json(
                 URL_SUMARIO.format(fecha=fecha),
                 headers={"Accept": "application/json"},
+                timeout=TIMEOUT_SEGUNDOS,
+                retries=REINTENTOS,
             )
             items.extend(parsear_sumario(data, capturado_en))
         except Exception as exc:
