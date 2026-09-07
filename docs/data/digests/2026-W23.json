@@ -2,20 +2,19 @@
   "id": "2026-W23",
   "desde": "2026-06-01",
   "hasta": "2026-06-07",
-  "generado_en": "2026-06-15T13:00:18Z",
+  "generado_en": "2026-09-07T15:26:37Z",
   "estado_fuentes": {
     "BOE": {
-      "estado": "degradada",
-      "items": 0,
-      "detalle": "20260606: <urlopen error timed out>; 20260607: <urlopen error timed out>; 20260608: <urlopen error timed out>"
+      "estado": "ok",
+      "items": 1493
     },
     "EUR-Lex": {
       "estado": "ok",
-      "items": 132
+      "items": 111
     },
     "EFSA": {
       "estado": "ok",
-      "items": 15
+      "items": 4
     }
   },
   "sin_novedades": false,

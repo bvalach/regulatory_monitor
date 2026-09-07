@@ -1,0 +1,109 @@
+{
+  "id": "2026-W36",
+  "desde": "2026-08-31",
+  "hasta": "2026-09-06",
+  "generado_en": "2026-09-07T15:26:37Z",
+  "estado_fuentes": {
+    "BOE": {
+      "estado": "ok",
+      "items": 1493
+    },
+    "EUR-Lex": {
+      "estado": "ok",
+      "items": 111
+    },
+    "EFSA": {
+      "estado": "ok",
+      "items": 4
+    }
+  },
+  "sin_novedades": false,
+  "temas": [
+    {
+      "id": "higiene_seguridad",
+      "etiqueta": "Higiene y seguridad alimentaria",
+      "items": [
+        {
+          "id": "celex-32026R2020",
+          "fuente": "EUR-Lex",
+          "tipo": "reglamento",
+          "titulo": "Reglamento de Ejecución (UE) 2026/2020 de la Comisión, de 4 de septiembre de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a los Estados Unidos en las listas de terceros países y territorios, o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral y productos reproductivos de aves de corral y de carne fresca de aves de corral y aves de caza",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2020",
+          "fecha_publicacion": "2026-09-04",
+          "fecha_captura": "2026-09-07T15:26:37Z",
+          "temas": [
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "carne"
+          ],
+          "score": 12,
+          "extracto": "Reglamento de Ejecución (UE) 2026/2020 de la Comisión, de 4 de septiembre de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a los Estados Unidos en las listas de terceros países y territorios, o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral y productos reproductivos de aves de corral y de carne fresca de aves de corral y aves de caza"
+        },
+        {
+          "id": "boe-BOE-A-2026-18421",
+          "fuente": "BOE",
+          "tipo": "resolucion",
+          "titulo": "Resolución de 21 de agosto de 2026, de la Agencia Española de Seguridad Alimentaria y Nutrición, O.A., por la que se convocan los Premios Estrategia NAOS, edición 2026.",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18421",
+          "fecha_publicacion": "2026-09-01",
+          "fecha_captura": "2026-09-07T15:26:37Z",
+          "temas": [
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "seguridad alimentaria"
+          ],
+          "score": 10,
+          "extracto": "Resolución de 21 de agosto de 2026, de la Agencia Española de Seguridad Alimentaria y Nutrición, O.A., por la que se convocan los Premios Estrategia NAOS, edición 2026."
+        }
+      ]
+    },
+    {
+      "id": "bienestar_sanidad_animal",
+      "etiqueta": "Bienestar animal y sanidad animal",
+      "items": [
+        {
+          "id": "celex-32026D1973",
+          "fuente": "EUR-Lex",
+          "tipo": "decision",
+          "titulo": "Decisión de Ejecución (UE) 2026/1973 de la Comisión, de 1 de septiembre de 2026, relativa a determinadas medidas de emergencia provisionales en relación con la peste porcina africana en Italia [notificada con el número C(2026) 6204]",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026D1973",
+          "fecha_publicacion": "2026-09-01",
+          "fecha_captura": "2026-09-07T15:26:37Z",
+          "temas": [
+            "bienestar_sanidad_animal"
+          ],
+          "terminos": [
+            "peste porcina africana"
+          ],
+          "score": 20,
+          "extracto": "Decisión de Ejecución (UE) 2026/1973 de la Comisión, de 1 de septiembre de 2026, relativa a determinadas medidas de emergencia provisionales en relación con la peste porcina africana en Italia [notificada con el número C(2026) 6204]"
+        }
+      ]
+    },
+    {
+      "id": "ayudas_fiscalidad",
+      "etiqueta": "Ayudas, subvenciones y fiscalidad sectorial",
+      "items": [
+        {
+          "id": "boe-BOE-A-2026-18411",
+          "fuente": "BOE",
+          "tipo": "resolucion",
+          "titulo": "Resolución de 26 de agosto de 2026, de la Subsecretaría, por la que se publica el Convenio entre el Ministerio de Agricultura, Pesca y Alimentación y la Empresa Nacional de Innovación, S.M.E., SA, para el apoyo al emprendimiento y a la pyme innovadora en el sector agroalimentario y el medio rural mediante el desarrollo de la línea de préstamos participativos: Línea Agroinnpulso 2026.",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18411",
+          "fecha_publicacion": "2026-09-01",
+          "fecha_captura": "2026-09-07T15:26:37Z",
+          "temas": [
+            "ayudas_fiscalidad"
+          ],
+          "terminos": [
+            "pyme"
+          ],
+          "score": 10,
+          "extracto": "Resolución de 26 de agosto de 2026, de la Subsecretaría, por la que se publica el Convenio entre el Ministerio de Agricultura, Pesca y Alimentación y la Empresa Nacional de Innovación, S.M.E., SA, para el apoyo al emprendimiento y a la pyme innovadora en el sector agroalimentario y el medio rural mediante el desarrollo de la línea de préstamos participativos: Línea Agroinnpulso 2026."
+        }
+      ]
+    }
+  ]
+}
