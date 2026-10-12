@@ -1,5 +1,199 @@
 [
   {
+    "id": "efsa-10.2903_j.efsa.2026.10346",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Safety and efficacy of feed additives consisting of tinctures derived from the roots or leaves and stems of Althaea officinalis L.: Marsh mallow root tincture for use in all animal species and marsh mallow leaf tincture for use in horses and dogs (FEFANA…",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10346",
+    "fecha_publicacion": "2026-10-09",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "aditivos_contaminantes",
+      "etiquetado_consumidor"
+    ],
+    "terminos": [
+      "additives",
+      "consumer"
+    ],
+    "score": 19,
+    "extracto": "Following a request from the European Commission, EFSA was asked to deliver a scientific opinion on the safety and efficacy of two tinctures obtained from the roots (marsh mallow root tincture) or leaves and stems (marsh mallow leaf tincture) of Althaea officinalis L. when used as sensory additives. The additives are water/ethanol tinctures, with a specified dry matter content of 2%–3% (w/w) (marsh mallow root tincture) and not more than 25% (w/w) (marsh mallow leaf tincture). Marsh mallow root tincture is intended for use in feed or water for drinking for all animal species, while marsh mallow leaf tincture is proposed for use in feed for horses and dogs. The EFSA Panel on Additives and Products or Substances used in Animal Feed (FEEDAP) concluded that marsh mallow root tincture is safe at the maximum proposed use level of 250 mg/kg complete feed for all animal species. Marsh mallow leaf tincture is safe at the maximum proposed use level of 1000 mg/kg complete feed for horses and 325 mg/kg complete feed for dogs. No safety concern would arise for the consumer and the environment from the use of marsh mallow tinctures in animal feed. The additives under assessment should be considered as irritant to skin and eyes, and as dermal and respiratory sensitisers. Exposure of users by any route is considered a risk. Since the roots of A. officinalis are recognised to flavour food and their function in feed would be essentially the same as that in food, no further demonstration of efficacy for marsh mallow root tincture was considered necessary. The same conclusions are extended to marsh mallow leaf tincture."
+  },
+  {
+    "id": "boe-BOE-A-2026-21057",
+    "fuente": "BOE",
+    "tipo": "resolucion",
+    "titulo": "Resolución de 1 de octubre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Italia y Seda International Packaging Group, SPA, para la celebración de la Fiesta Nacional de España.",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21057",
+    "fecha_publicacion": "2026-10-09",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "envases_sostenibilidad"
+    ],
+    "terminos": [
+      "packaging"
+    ],
+    "score": 16,
+    "extracto": "Resolución de 1 de octubre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Italia y Seda International Packaging Group, SPA, para la celebración de la Fiesta Nacional de España."
+  },
+  {
+    "id": "boe-BOE-A-2026-21083",
+    "fuente": "BOE",
+    "tipo": "resolucion",
+    "titulo": "Resolución de 27 de septiembre de 2026, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de tres series de sellos de correo denominadas «Casa Real Española.-2026. S.A.R. La Princesa de Asturias; S.A.R. La Princesa de Asturias Ejército de Tierra; S.A.R. La Princesa de Asturias La Armada Española y S.A.R. La Princesa de Asturias Ejército del Aire y del Espacio», «Gastronomía. D.O.P. País Vasco.-2026. I.G.P. Carne de Vacuno del País Vasco/Euskal Okela y D.O.P. de Txacoli del País Vasco» y «Efemérides.-2026. 150 aniversario Institución Libre de Enseñanza».",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21083",
+    "fecha_publicacion": "2026-10-09",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "carne"
+    ],
+    "score": 12,
+    "extracto": "Resolución de 27 de septiembre de 2026, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de tres series de sellos de correo denominadas «Casa Real Española.-2026. S.A.R. La Princesa de Asturias; S.A.R. La Princesa de Asturias Ejército de Tierra; S.A.R. La Princesa de Asturias La Armada Española y S.A.R. La Princesa de Asturias Ejército del Aire y del Espacio», «Gastronomía. D.O.P. País Vasco.-2026. I.G.P. Carne de Vacuno del País Vasco/Euskal Okela y D.O.P. de Txacoli del País Vasco» y «Efemérides.-2026. 150 aniversario Institución Libre de Enseñanza»."
+  },
+  {
+    "id": "efsa-10.2903_sp.efsa.2026.EN-10162",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Model development to predict environmental concentrations of chemical substances in marine sediment when the substance is applied via feed in marine aquaculture: Task 3.1a, Plan the pilot web application",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10162",
+    "fecha_publicacion": "2026-10-09",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "aditivos_contaminantes",
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "additives",
+      "food safety"
+    ],
+    "score": 12,
+    "extracto": "The present report outlines the planning and deployment of a pilot web application designed to provide a user‐friendly, browser‐based interface for running a coupled hydrodynamic–sediment–chemical dispersion model that predicts Predicted Environmental Concentrations (PEC) of feed additives in marine sediments beneath sea‐cage aquaculture. The application will support the European Food Safety Authority (EFSA's) tiered environmental risk assessment by allowing non‐programmers to configure key model parameters, automatically selecting between precomputed lookup‐table outputs or full numerical model reruns depending on user inputs. Built in open‐source languages and deployable via the European Digital Twin for the Ocean (EDITO) Kubernetes‐based cloud infrastructure, the app will integrate a modular architecture with a front‐end dashboard, a queue manager, and a computational back‐end capable of overnight simulations for step II scenarios. Drawing on a representative set of European aquaculture sites and precomputed 3‐D hydrodynamic results, the system will deliver PEC values and uncertainty estimates, with additional diagnostics for full model runs."
+  },
+  {
+    "id": "boe-BOE-A-2026-20911",
+    "fuente": "BOE",
+    "tipo": "real_decreto",
+    "titulo": "Real Decreto 808/2026, de 7 de octubre, por el que se modifica el Real Decreto 760/2021, de 31 de agosto, por el que se aprueba la norma de calidad de los aceites de oliva y de orujo de oliva.",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20911",
+    "fecha_publicacion": "2026-10-08",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "etiquetado_consumidor"
+    ],
+    "terminos": [
+      "norma de calidad"
+    ],
+    "score": 16,
+    "extracto": "Real Decreto 808/2026, de 7 de octubre, por el que se modifica el Real Decreto 760/2021, de 31 de agosto, por el que se aprueba la norma de calidad de los aceites de oliva y de orujo de oliva."
+  },
+  {
+    "id": "celex-32026M12602",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Decisión de la Comisión, de 07/10/2026 por la que se declara la compatibilidad de una operación de concentración con el mercado común (Asunto no COMP/M.12602 - AP / GERRESHEIMER (PRIMARY PACKAGING PLASTICS BUSINESS)) sobre la base del Reglamento (CE) n. 139/2004 del Consejo (El texto en lengua inglesa es el único auténtico)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026M12602",
+    "fecha_publicacion": "2026-10-07",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "envases_sostenibilidad"
+    ],
+    "terminos": [
+      "packaging",
+      "plastics"
+    ],
+    "score": 26,
+    "extracto": "Decisión de la Comisión, de 07/10/2026 por la que se declara la compatibilidad de una operación de concentración con el mercado común (Asunto no COMP/M.12602 - AP / GERRESHEIMER (PRIMARY PACKAGING PLASTICS BUSINESS)) sobre la base del Reglamento (CE) n. 139/2004 del Consejo (El texto en lengua inglesa es el único auténtico)"
+  },
+  {
+    "id": "efsa-10.2903_j.efsa.2026.10357",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Assessment of guanidinoacetic acid (GAA) and a preparation of GAA (Creamino®) as feed additives for chickens for fattening and reared for breeding/laying, weaned piglets and pigs for fattening, for the renewal of their authorisation and its extension of…",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10357",
+    "fecha_publicacion": "2026-10-07",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "aditivos_contaminantes"
+    ],
+    "terminos": [
+      "additives"
+    ],
+    "score": 14,
+    "extracto": "Following a request from the European Commission, EFSA was asked to deliver a scientific opinion on the feed additives guanidinoacetic acid (GAA) and a preparation of GAA (Creamino®) for chickens for fattening and reared for laying and breeding, weaned piglets and pigs for fattening for the renewal of their authorisation and their extension of use in feed for suckling pigs. The additives are already authorised for use in chickens for fattening and reared for laying and breeding, weaned piglets and pigs for fattening. The FEEDAP Panel concludes that the additives remain safe for the target species, consumers and environment and that the extension of the use to suckling piglets would not affect these conclusions. Regarding user safety, the additives were not considered irritant to skin or eyes and were not considered a potential skin sensitiser. There is no need for assessing the efficacy of the additives in the context of the renewal of the authorisation for chickens for fattening, chickens reared for laying and breeding, weaned piglets and pigs for fattening. The Panel concludes that the additives are efficacious in feed for suckling piglets at 600 mg/kg complete feed."
+  },
+  {
+    "id": "celex-32026R2268",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento de Ejecución (UE) 2026/2268 de la Comisión, de 7 de octubre de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a Canadá, el Reino Unido y los Estados Unidos en las listas de terceros países y territorios, o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral y productos reproductivos de aves de corral y de carne fresca de aves de corral y aves de caza",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2268",
+    "fecha_publicacion": "2026-10-07",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "carne"
+    ],
+    "score": 12,
+    "extracto": "Reglamento de Ejecución (UE) 2026/2268 de la Comisión, de 7 de octubre de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a Canadá, el Reino Unido y los Estados Unidos en las listas de terceros países y territorios, o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral y productos reproductivos de aves de corral y de carne fresca de aves de corral y aves de caza"
+  },
+  {
+    "id": "efsa-10.2903_sp.efsa.2026.EN-10362",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Scoping review of existing in silico and PBK models for humans and rats",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10362",
+    "fecha_publicacion": "2026-10-06",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "aditivos_contaminantes"
+    ],
+    "terminos": [
+      "contaminants"
+    ],
+    "score": 8,
+    "extracto": "One of EFSA research priority research areas is to better understand the role of toxicokinetic and its implementation into next generation risk assessment. Food ingredients and contaminants often lack data on their absorption, distribution, metabolism and excretion (ADME) properties, which are needed to model their bioavailability using Physiologically Based Kinetic (PBK) models. The project ADME4NGRA, “Implementing the EFSA NAMs roadmap through advancing toxicokinetic knowledge in chemical risk assessment”, aims to provide a list of NAM‐based ADME tools and guidance for parameterising PBK models for rats and humans. The first step (and aim of this report) is to characterise the landscape of available in silico models, in vitro‐in vivo extrapolation (IVIVE) methodologies and PBK models. The results of a scoping review and the assessment of currently available generic PBK platforms as well as newly developed and existing in silico models are herein reported and discussed, highlighting knowledge and data gaps relevant for the assessment of compounds occurring in food and feed."
+  },
+  {
+    "id": "celex-32026R2208",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento de Ejecución (UE) 2026/2208 de la Comisión, de 5 de octubre de 2026, sobre medidas excepcionales de apoyo al mercado en el sector de la carne de porcino en Italia",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2208",
+    "fecha_publicacion": "2026-10-05",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "bienestar_sanidad_animal",
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "carne",
+      "porcino"
+    ],
+    "score": 24,
+    "extracto": "Reglamento de Ejecución (UE) 2026/2208 de la Comisión, de 5 de octubre de 2026, sobre medidas excepcionales de apoyo al mercado en el sector de la carne de porcino en Italia"
+  },
+  {
+    "id": "celex-32026R2205",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento de Ejecución (UE) 2026/2205 de la Comisión, de 5 de octubre de 2026, sobre medidas excepcionales de apoyo al mercado en los sectores de los huevos y de la carne de aves de corral en Italia",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2205",
+    "fecha_publicacion": "2026-10-05",
+    "fecha_captura": "2026-10-12T19:33:32Z",
+    "temas": [
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "carne"
+    ],
+    "score": 12,
+    "extracto": "Reglamento de Ejecución (UE) 2026/2205 de la Comisión, de 5 de octubre de 2026, sobre medidas excepcionales de apoyo al mercado en los sectores de los huevos y de la carne de aves de corral en Italia"
+  },
+  {
     "id": "celex-32026R1344",
     "fuente": "EUR-Lex",
     "tipo": "reglamento",
