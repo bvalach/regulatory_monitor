@@ -1,5 +1,161 @@
 [
   {
+    "id": "efsa-10.2903_sp.efsa.2026.EN-10386",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Determinants of African swine fever occurrence, persistence and spread across Europe",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10386",
+    "fecha_publicacion": "2026-10-16",
+    "fecha_captura": "2026-10-19T16:44:41Z",
+    "temas": [
+      "bienestar_sanidad_animal"
+    ],
+    "terminos": [
+      "african swine fever",
+      "swine"
+    ],
+    "score": 32,
+    "extracto": "To investigate the determinants of African Swine Fever occurrence, persistence, and spread in European wild boar populations, with a particular focus on available wild boar density estimates, we built upon previous modelling analyses conducted within the framework of EFSA activities. First, we developed spatially‐explicit statistical models to identify the determinants of the proportion of ASF‐positive wild boar carcasses detected in 10 × 10 km grid cells across seven European countries (Estonia, Germany, Hungary, Italy, Latvia, Lithuania, and Slovakia), using this metric as a proxy for ASF occurrence. We then applied a similar framework to investigate ASF persistence, defined as the proportion of positive months over two‐ and five‐year periods. These analyses provided very limited evidence that available wild boar density estimates were associated with ASF occurrence or persistence across the study area. Nevertheless, several meteorological variables, including annual temperature and precipitation, as well as ecological variables related to wild boar habitat suitability, including forest cover, forest fragmentation, and the human footprint index, were associated with ASF occurrence and/or persistence, although not consistently across countries. We also expanded an existing spatially explicit mechanistic model of ASF spread operating on a grid of 2 × 2 km cells parameterised with available wild boar density estimates. The model was fitted to four sequential epidemic waves in northern Italy (January 2022 to November 2025). Model outputs provided consistent support for an effect of wild boar density on ASF propagation patterns, with habitats with higher expected wild boar density tending to be more susceptible and infectious to neighbouring habitats. Taken together, these findings suggest that the role of wild boar density may be particularly important for the geographical expansion of ASF into unaffected areas, whereas local occurrence and persistence once ASF is established may depend more strongly on local epidemiological and environmental conditions."
+  },
+  {
+    "id": "efsa-10.2903_sp.efsa.2026.EN-10377",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Risk Assessment Activities on Cat and Dog extreme features: exchange with the EFSA Animal Welfare Network",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10377",
+    "fecha_publicacion": "2026-10-16",
+    "fecha_captura": "2026-10-19T16:44:41Z",
+    "temas": [
+      "bienestar_sanidad_animal",
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "animal welfare",
+      "food safety"
+    ],
+    "score": 23,
+    "extracto": "The European Council recently adopted a proposal for a Regulation on the welfare and traceability of dogs and cats. In this context, the European Food Safety Authority started preparatory activities for potential future mandates and organized a dedicated discussion concerning extreme features in cats and dogs during the 2026 Animal Welfare network meeting. National risk assessment activities on extreme features in cats and dogs reported by Network representatives are listed in this report. The information collected indicates that national activities involving the use of Animal‐Based‐Measures to identify, assess or monitor the welfare consequences associated with such extreme features remain limited. The national institutions conducting these risk assessments vary among countries and may involve competent public bodies, academic or research institutions and private‐sector organizations."
+  },
+  {
+    "id": "celex-32026R2309",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento (UE) 2026/2309 de la Comisión, de 16 de octubre de 2026, que modifica el anexo del Reglamento (UE) n.o 231/2012, por el que se establecen especificaciones para los aditivos alimentarios que figuran en los anexos II y III del Reglamento (CE) n.o 1333/2008 del Parlamento Europeo y del Consejo, en lo referente a las especificaciones relativas a los glucósidos de esteviol producidos enzimáticamente para incluir el rebaudiósido M producido mediante conversión enzimática del rebaudiósido A muy purificado a partir de extractos de hojas de estevia [E 960c(ii)] utilizando la levadura modificada genéticamente K. phaffii CGMCC 7539",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2309",
+    "fecha_publicacion": "2026-10-16",
+    "fecha_captura": "2026-10-19T16:44:41Z",
+    "temas": [
+      "aditivos_contaminantes"
+    ],
+    "terminos": [
+      "aditivos"
+    ],
+    "score": 14,
+    "extracto": "Reglamento (UE) 2026/2309 de la Comisión, de 16 de octubre de 2026, que modifica el anexo del Reglamento (UE) n.o 231/2012, por el que se establecen especificaciones para los aditivos alimentarios que figuran en los anexos II y III del Reglamento (CE) n.o 1333/2008 del Parlamento Europeo y del Consejo, en lo referente a las especificaciones relativas a los glucósidos de esteviol producidos enzimáticamente para incluir el rebaudiósido M producido mediante conversión enzimática del rebaudiósido A muy purificado a partir de extractos de hojas de estevia [E 960c(ii)] utilizando la levadura modificada genéticamente K. phaffii CGMCC 7539"
+  },
+  {
+    "id": "celex-32026R2299",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento (UE) 2026/2299 de la Comisión, de 15 de octubre de 2026, por el que se modifican los anexos II y III del Reglamento (CE) n.o 396/2005 del Parlamento Europeo y del Consejo en lo que respecta a los límites máximos de residuos de difenoconazol en determinados productos",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2299",
+    "fecha_publicacion": "2026-10-15",
+    "fecha_captura": "2026-10-19T16:44:41Z",
+    "temas": [
+      "aditivos_contaminantes"
+    ],
+    "terminos": [
+      "limites maximos"
+    ],
+    "score": 14,
+    "extracto": "Reglamento (UE) 2026/2299 de la Comisión, de 15 de octubre de 2026, por el que se modifican los anexos II y III del Reglamento (CE) n.o 396/2005 del Parlamento Europeo y del Consejo en lo que respecta a los límites máximos de residuos de difenoconazol en determinados productos"
+  },
+  {
+    "id": "celex-32026R2289",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento (UE) 2026/2289 de la Comisión, de 15 de octubre de 2026, que modifica el anexo II del Reglamento (CE) n.o 396/2005 del Parlamento Europeo y del Consejo por lo que respecta a los límites máximos de residuos de acequinocilo, deltametrin, dodina, hidrazida maleica, pinoxaden y protioconazol en determinados productos",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2289",
+    "fecha_publicacion": "2026-10-15",
+    "fecha_captura": "2026-10-19T16:44:41Z",
+    "temas": [
+      "aditivos_contaminantes"
+    ],
+    "terminos": [
+      "limites maximos"
+    ],
+    "score": 14,
+    "extracto": "Reglamento (UE) 2026/2289 de la Comisión, de 15 de octubre de 2026, que modifica el anexo II del Reglamento (CE) n.o 396/2005 del Parlamento Europeo y del Consejo por lo que respecta a los límites máximos de residuos de acequinocilo, deltametrin, dodina, hidrazida maleica, pinoxaden y protioconazol en determinados productos"
+  },
+  {
+    "id": "efsa-10.2903_j.efsa.2026.10364",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Assessment of genetically modified maize Bt11 × MIR162 × MON 89034 × NK603 (application GMFF-2025-33624)",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10364",
+    "fecha_publicacion": "2026-10-15",
+    "fecha_captura": "2026-10-19T16:44:41Z",
+    "temas": [
+      "bienestar_sanidad_animal"
+    ],
+    "terminos": [
+      "animal health"
+    ],
+    "score": 8,
+    "extracto": "Genetically modified maize Bt11 × MIR162 × MON 89034 × NK603 was developed by crossing to combine four single events: Bt11, MIR162, MON 89034 and NK603. The maize Bt11 × MIR162 × MON 89034 × NK603 expresses the Cry1Ab, PAT, Vip3Aa20, PMI, Cry1A.105, Cry2Ab2, CP4 EPSPS and CP4 EPSPS L214P proteins to confer protection against certain lepidopteran pests, tolerance to glufosinate‐ and glyphosate‐containing herbicides and to be used as a selectable marker. The GMO Panel previously assessed the four single maize events and seven of the sub‐combinations and did not identify safety concerns. No new data on the single maize events or the assessed sub‐combinations were identified that could lead to modification of the original conclusions on their safety. The molecular characterisation, comparative analysis (agronomic, phenotypic and compositional characteristics) and the outcome of the toxicological, allergenicity and nutritional assessment indicate that the combination of the single maize events and of the newly expressed proteins in the four‐event stack does not give rise to food and feed safety and nutritional concerns. The GMO Panel concludes that the four‐event stack, as described in this application, is as safe as the non‐GM comparator and non‐GM reference varieties tested, and no post‐market monitoring of food/feed is considered necessary. In the case of release of processed four‐event stack or accidental spillage of viable GM maize seeds into the environment, this would not raise environmental safety concerns. The GMO Panel assessed the likelihood of interactions among the single events in three of the maize sub‐combinations not previously assessed and concludes that these are expected to be as safe as the single events, the previously assessed sub‐combinations and the four‐event stack. The post‐market environmental monitoring plan and reporting intervals are in line with the intended uses of the four‐event stack and of its sub‐combinations. The GMO Panel concludes that maize Bt11 × MIR162 × MON 89034 × NK603 and its sub‐combinations are as safe as its non‐GM comparator and the tested non‐GM reference varieties with respect to potential effects on human and animal health and the environment."
+  },
+  {
+    "id": "celex-32026R2328",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento de Ejecución (UE) 2026/2328 de la Comisión, de 14 de octubre de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo relativo a las entradas correspondientes a Canadá y los Estados Unidos en las listas de terceros países, territorios o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral, productos reproductivos de aves de corral y carne fresca de aves de corral y de aves de caza",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2328",
+    "fecha_publicacion": "2026-10-14",
+    "fecha_captura": "2026-10-19T16:44:41Z",
+    "temas": [
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "carne"
+    ],
+    "score": 12,
+    "extracto": "Reglamento de Ejecución (UE) 2026/2328 de la Comisión, de 14 de octubre de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo relativo a las entradas correspondientes a Canadá y los Estados Unidos en las listas de terceros países, territorios o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral, productos reproductivos de aves de corral y carne fresca de aves de corral y de aves de caza"
+  },
+  {
+    "id": "celex-32026D05398",
+    "fuente": "EUR-Lex",
+    "tipo": "decision",
+    "titulo": "Decisión del Consejo, de 12 de octubre de 2026, por la que se nombra a un representante de un Estado miembro como miembro titular y suplente del Consejo de administración de la Autoridad Europea de Seguridad Alimentaria",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026D05398",
+    "fecha_publicacion": "2026-10-12",
+    "fecha_captura": "2026-10-19T16:44:41Z",
+    "temas": [
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "seguridad alimentaria"
+    ],
+    "score": 10,
+    "extracto": "Decisión del Consejo, de 12 de octubre de 2026, por la que se nombra a un representante de un Estado miembro como miembro titular y suplente del Consejo de administración de la Autoridad Europea de Seguridad Alimentaria"
+  },
+  {
+    "id": "celex-32026L2250",
+    "fuente": "EUR-Lex",
+    "tipo": "directiva",
+    "titulo": "Directiva de Ejecución (UE) 2026/2250 de la Comisión, de 12 de octubre de 2026, por la que se modifica la Directiva de Ejecución 2014/21/UE en lo que respecta a la producción de patatas de siembra de prebase a partir de semillas verdaderas de patata procedentes de variedades de patatas propagadas por semillas, y el anexo III de la Directiva 2002/56/CE del Consejo en lo que respecta a los requisitos de etiquetado de las patatas de siembra",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026L2250",
+    "fecha_publicacion": "2026-10-12",
+    "fecha_captura": "2026-10-19T16:44:41Z",
+    "temas": [
+      "etiquetado_consumidor"
+    ],
+    "terminos": [
+      "etiquetado"
+    ],
+    "score": 8,
+    "extracto": "Directiva de Ejecución (UE) 2026/2250 de la Comisión, de 12 de octubre de 2026, por la que se modifica la Directiva de Ejecución 2014/21/UE en lo que respecta a la producción de patatas de siembra de prebase a partir de semillas verdaderas de patata procedentes de variedades de patatas propagadas por semillas, y el anexo III de la Directiva 2002/56/CE del Consejo en lo que respecta a los requisitos de etiquetado de las patatas de siembra"
+  },
+  {
     "id": "celex-32026R1344",
     "fuente": "EUR-Lex",
     "tipo": "reglamento",
