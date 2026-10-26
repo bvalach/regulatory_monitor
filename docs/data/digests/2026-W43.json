@@ -1,0 +1,116 @@
+{
+  "id": "2026-W43",
+  "desde": "2026-10-19",
+  "hasta": "2026-10-25",
+  "generado_en": "2026-10-26T16:24:32Z",
+  "estado_fuentes": {
+    "BOE": {
+      "estado": "ok",
+      "items": 2134
+    },
+    "EUR-Lex": {
+      "estado": "ok",
+      "items": 116
+    },
+    "EFSA": {
+      "estado": "ok",
+      "items": 13
+    }
+  },
+  "sin_novedades": false,
+  "temas": [
+    {
+      "id": "higiene_seguridad",
+      "etiqueta": "Higiene y seguridad alimentaria",
+      "items": [
+        {
+          "id": "celex-52026XX05453",
+          "fuente": "EUR-Lex",
+          "tipo": "otro",
+          "titulo": "Interconexión de las organizaciones que actúan en los ámbitos comprendidos en el cometido de la Autoridad Europea de Seguridad Alimentaria (EFSA)",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:52026XX05453",
+          "fecha_publicacion": "2026-10-21",
+          "fecha_captura": "2026-10-26T16:24:32Z",
+          "temas": [
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "seguridad alimentaria"
+          ],
+          "score": 10,
+          "extracto": "Interconexión de las organizaciones que actúan en los ámbitos comprendidos en el cometido de la Autoridad Europea de Seguridad Alimentaria (EFSA)"
+        }
+      ]
+    },
+    {
+      "id": "etiquetado_consumidor",
+      "etiqueta": "Etiquetado e información al consumidor",
+      "items": [
+        {
+          "id": "celex-32021R2117R(12)",
+          "fuente": "EUR-Lex",
+          "tipo": "reglamento",
+          "titulo": "Corrección de errores del Reglamento (UE) 2021/2117 del Parlamento Europeo y del Consejo de 2 de diciembre de 2021 que modifica los Reglamentos (UE) n.° 1308/2013, por el que se crea la organización común de mercados de los productos agrarios, (UE) n.° 1151/2012, sobre los regímenes de calidad de los productos agrícolas y alimenticios, (UE) n.° 251/2014, sobre la definición, descripción, presentación, etiquetado y protección de las indicaciones geográficas de los productos vitivinícolas aromatizados, y (UE) n.° 228/2013, por el que se establecen medidas específicas en el sector agrícola en favor de las regiones ultraperiféricas de la Unión (DO L 435 de 6.12.2021)",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32021R2117R(12)",
+          "fecha_publicacion": "2026-10-22",
+          "fecha_captura": "2026-10-26T16:24:32Z",
+          "temas": [
+            "etiquetado_consumidor"
+          ],
+          "terminos": [
+            "etiquetado"
+          ],
+          "score": 8,
+          "extracto": "Corrección de errores del Reglamento (UE) 2021/2117 del Parlamento Europeo y del Consejo de 2 de diciembre de 2021 que modifica los Reglamentos (UE) n.° 1308/2013, por el que se crea la organización común de mercados de los productos agrarios, (UE) n.° 1151/2012, sobre los regímenes de calidad de los productos agrícolas y alimenticios, (UE) n.° 251/2014, sobre la definición, descripción, presentación, etiquetado y protección de las indicaciones geográficas de los productos vitivinícolas aromatizados, y (UE) n.° 228/2013, por el que se establecen medidas específicas en el sector agrícola en favor de las regiones ultraperiféricas de la Unión (DO L 435 de 6.12.2021)"
+        }
+      ]
+    },
+    {
+      "id": "bienestar_sanidad_animal",
+      "etiqueta": "Bienestar animal y sanidad animal",
+      "items": [
+        {
+          "id": "celex-32026R2371",
+          "fuente": "EUR-Lex",
+          "tipo": "reglamento",
+          "titulo": "Reglamento de Ejecución (UE) 2026/2371 de la Comisión, de 22 de octubre de 2026, que modifica el anexo I del Reglamento de Ejecución (UE) 2023/594, por el que se establecen medidas especiales de control de la peste porcina africana",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2371",
+          "fecha_publicacion": "2026-10-22",
+          "fecha_captura": "2026-10-26T16:24:32Z",
+          "temas": [
+            "bienestar_sanidad_animal"
+          ],
+          "terminos": [
+            "peste porcina africana"
+          ],
+          "score": 20,
+          "extracto": "Reglamento de Ejecución (UE) 2026/2371 de la Comisión, de 22 de octubre de 2026, que modifica el anexo I del Reglamento de Ejecución (UE) 2023/594, por el que se establecen medidas especiales de control de la peste porcina africana"
+        }
+      ]
+    },
+    {
+      "id": "comercio_exterior",
+      "etiqueta": "Comercio exterior y aranceles",
+      "items": [
+        {
+          "id": "boe-BOE-A-2026-22287",
+          "fuente": "BOE",
+          "tipo": "resolucion",
+          "titulo": "Resolución de 16 de octubre de 2026, de ICEX España Exportación e Inversiones, E.P.E., por la que se publica el Convenio con la Asociación Interprofesional del Cerdo Ibérico, para la organización de extensiones de misiones inversas de compradores y/o prescriptores de opinión del sector agroalimentario a celebrar en diversas localidades españolas.",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22287",
+          "fecha_publicacion": "2026-10-24",
+          "fecha_captura": "2026-10-26T16:24:32Z",
+          "temas": [
+            "comercio_exterior"
+          ],
+          "terminos": [
+            "cerdo iberico",
+            "exportacion"
+          ],
+          "score": 22,
+          "extracto": "Resolución de 16 de octubre de 2026, de ICEX España Exportación e Inversiones, E.P.E., por la que se publica el Convenio con la Asociación Interprofesional del Cerdo Ibérico, para la organización de extensiones de misiones inversas de compradores y/o prescriptores de opinión del sector agroalimentario a celebrar en diversas localidades españolas."
+        }
+      ]
+    }
+  ]
+}
