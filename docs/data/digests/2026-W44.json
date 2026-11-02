@@ -1,0 +1,239 @@
+{
+  "id": "2026-W44",
+  "desde": "2026-10-26",
+  "hasta": "2026-11-01",
+  "generado_en": "2026-11-02T19:55:53Z",
+  "estado_fuentes": {
+    "BOE": {
+      "estado": "ok",
+      "items": 2034
+    },
+    "EUR-Lex": {
+      "estado": "ok",
+      "items": 150
+    },
+    "EFSA": {
+      "estado": "ok",
+      "items": 12
+    }
+  },
+  "sin_novedades": false,
+  "temas": [
+    {
+      "id": "higiene_seguridad",
+      "etiqueta": "Higiene y seguridad alimentaria",
+      "items": [
+        {
+          "id": "boe-BOE-A-2026-22680",
+          "fuente": "BOE",
+          "tipo": "orden",
+          "titulo": "Orden APA/1135/2026, de 19 de octubre, por la que se extiende el acuerdo de la Organización Interprofesional para Impulsar el Sector Cunícola, Intercun, al conjunto del sector y se fija la aportación económica obligatoria, para la realización de acciones de fomento del consumo y mejora de la imagen de la carne de conejo y apoyo a la mejora de la producción, la competitividad, la vertebración, la transparencia y la internacionalización del sector, durante tres años.",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22680",
+          "fecha_publicacion": "2026-10-29",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "carne"
+          ],
+          "score": 12,
+          "extracto": "Orden APA/1135/2026, de 19 de octubre, por la que se extiende el acuerdo de la Organización Interprofesional para Impulsar el Sector Cunícola, Intercun, al conjunto del sector y se fija la aportación económica obligatoria, para la realización de acciones de fomento del consumo y mejora de la imagen de la carne de conejo y apoyo a la mejora de la producción, la competitividad, la vertebración, la transparencia y la internacionalización del sector, durante tres años."
+        },
+        {
+          "id": "celex-32026R2466",
+          "fuente": "EUR-Lex",
+          "tipo": "reglamento",
+          "titulo": "Reglamento de Ejecución (UE) 2026/2466 de la Comisión, de 28 de octubre de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a Canadá, el Reino Unido y los Estados Unidos en las listas de terceros países y territorios, o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral y productos reproductivos de aves de corral y de carne fresca de aves de corral y aves de caza",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2466",
+          "fecha_publicacion": "2026-10-28",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "higiene_seguridad"
+          ],
+          "terminos": [
+            "carne"
+          ],
+          "score": 12,
+          "extracto": "Reglamento de Ejecución (UE) 2026/2466 de la Comisión, de 28 de octubre de 2026, por el que se modifican los anexos V y XIV del Reglamento de Ejecución (UE) 2021/404 en lo que concierne a las entradas correspondientes a Canadá, el Reino Unido y los Estados Unidos en las listas de terceros países y territorios, o zonas de estos, desde los que se autoriza la entrada en la Unión de partidas de aves de corral y productos reproductivos de aves de corral y de carne fresca de aves de corral y aves de caza"
+        }
+      ]
+    },
+    {
+      "id": "aditivos_contaminantes",
+      "etiqueta": "Aditivos y contaminantes",
+      "items": [
+        {
+          "id": "boe-BOE-A-2026-22609",
+          "fuente": "BOE",
+          "tipo": "otro",
+          "titulo": "Enmienda al Anexo A del Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes, adoptada en Ginebra el 9 de mayo de 2025, mediante la Decisión SC-12/14.",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22609",
+          "fecha_publicacion": "2026-10-29",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "aditivos_contaminantes"
+          ],
+          "terminos": [
+            "contaminantes"
+          ],
+          "score": 16,
+          "extracto": "Enmienda al Anexo A del Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes, adoptada en Ginebra el 9 de mayo de 2025, mediante la Decisión SC-12/14."
+        },
+        {
+          "id": "efsa-10.2903_j.efsa.2026.10394",
+          "fuente": "EFSA",
+          "tipo": "opinion_cientifica",
+          "titulo": "Safety assessment of the process EREMA_VACUREMA MPR used to recycle post-consumer PET into food contact materials",
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10394",
+          "fecha_publicacion": "2026-10-28",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "aditivos_contaminantes",
+            "etiquetado_consumidor"
+          ],
+          "terminos": [
+            "consumer",
+            "contaminants"
+          ],
+          "score": 18,
+          "extracto": "The EFSA Panel on Food Contact Materials (FCM) assessed the safety of the recycling process EREMA_VACUREMA MPR (EU register number RECYC342). The input is washed and dried poly(ethylene terephthalate) (PET) flakes mainly originating from collected post‐consumer PET containers, with no more than 5% PET from non‐food consumer applications. The flakes are heated in a continuous flake reactor (step 2) under vacuum. Having examined the challenge test provided, the Panel concluded that step 2 is critical in determining the decontamination efficiency of the process. The operating parameters to control the efficiency are the temperature, the pressure (vacuum) and the residence time. It was demonstrated that this recycling process ensures that the level of migration of potential unknown contaminants into food is below the conservatively modelled migration of 0.156 or 0.312 μg/kg food, depending on the molar mass of the contaminant substance. Therefore, the Panel concluded that the recycled PET obtained from this process is not of safety concern, when used at up to 100% for the manufacture of materials and articles for contact with foodstuffs, excluding drinking water, reconstituted infant formula and human milk, for long‐term storage at room temperature or below, with or without hot‐fill. Articles made of this recycled PET are not intended to be used in microwave and conventional ovens and such uses are not covered by this evaluation."
+        },
+        {
+          "id": "efsa-10.2903_j.efsa.2026.10389",
+          "fuente": "EFSA",
+          "tipo": "opinion_cientifica",
+          "titulo": "Safety of roasted and ground kernels of an edible variety of Jatropha curcas L. (Xuta) as a traditional food from a third country pursuant to Regulation (EU) No 2015/2283",
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10389",
+          "fecha_publicacion": "2026-10-28",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "aditivos_contaminantes"
+          ],
+          "terminos": [
+            "contaminants"
+          ],
+          "score": 8,
+          "extracto": "Following a request from the European Commission, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver an opinion on the safety of roasted and ground kernels of an edible variety of Jatropha curcas L. (Xuta) as a traditional food from a third country (TF). Xuta kernels have been consumed for more than 25 years in Mexico. The TF is intended to be used as a food ingredient in grain‐based products and soups. The TF was previously evaluated via a notification procedure. During that assessment, safety objections were raised concerning phorbol esters (PEs) and other compositional parameters. The Panel considers that the additional analyses provided on contaminants, pesticide residues and microbiological criteria do not raise safety concerns. Regarding PEs, the applicant developed and validated a method for their quantification in the TF. In addition, a sampling procedure was established to avoid the presence of PEs caused by accidental commingling with non‐edible kernels of Jatropha curcas L. Under a conservative exposure scenario for PEs from the consumption of the TF and taking into account uncertainties associated with the analytical method, the highest estimated PE exposure resulted in margins of exposure (MoEs) of 1900 or greater when compared with the reference point derived from a subchronic study in pigs. The Panel considers that the derived MoEs are sufficient to ensure the safe consumption of the TF under the proposed conditions of use. The Panel considers that the newly submitted evidence resolves the safety objections raised during the earlier assessment of the TF notification, that consumption of the TF is not nutritionally disadvantageous, and concludes that the TF is safe under the proposed conditions of use."
+        }
+      ]
+    },
+    {
+      "id": "etiquetado_consumidor",
+      "etiqueta": "Etiquetado e información al consumidor",
+      "items": [
+        {
+          "id": "efsa-10.2903_j.efsa.2026.10394",
+          "fuente": "EFSA",
+          "tipo": "opinion_cientifica",
+          "titulo": "Safety assessment of the process EREMA_VACUREMA MPR used to recycle post-consumer PET into food contact materials",
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10394",
+          "fecha_publicacion": "2026-10-28",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "aditivos_contaminantes",
+            "etiquetado_consumidor"
+          ],
+          "terminos": [
+            "consumer",
+            "contaminants"
+          ],
+          "score": 18,
+          "extracto": "The EFSA Panel on Food Contact Materials (FCM) assessed the safety of the recycling process EREMA_VACUREMA MPR (EU register number RECYC342). The input is washed and dried poly(ethylene terephthalate) (PET) flakes mainly originating from collected post‐consumer PET containers, with no more than 5% PET from non‐food consumer applications. The flakes are heated in a continuous flake reactor (step 2) under vacuum. Having examined the challenge test provided, the Panel concluded that step 2 is critical in determining the decontamination efficiency of the process. The operating parameters to control the efficiency are the temperature, the pressure (vacuum) and the residence time. It was demonstrated that this recycling process ensures that the level of migration of potential unknown contaminants into food is below the conservatively modelled migration of 0.156 or 0.312 μg/kg food, depending on the molar mass of the contaminant substance. Therefore, the Panel concluded that the recycled PET obtained from this process is not of safety concern, when used at up to 100% for the manufacture of materials and articles for contact with foodstuffs, excluding drinking water, reconstituted infant formula and human milk, for long‐term storage at room temperature or below, with or without hot‐fill. Articles made of this recycled PET are not intended to be used in microwave and conventional ovens and such uses are not covered by this evaluation."
+        }
+      ]
+    },
+    {
+      "id": "bienestar_sanidad_animal",
+      "etiqueta": "Bienestar animal y sanidad animal",
+      "items": [
+        {
+          "id": "efsa-10.2903_j.efsa.2026.10366",
+          "fuente": "EFSA",
+          "tipo": "opinion_cientifica",
+          "titulo": "Assessment of genetically modified soybean MON 94313 × MON 89788 (application GMFF-2023-17394)",
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10366",
+          "fecha_publicacion": "2026-10-26",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "bienestar_sanidad_animal"
+          ],
+          "terminos": [
+            "animal health"
+          ],
+          "score": 8,
+          "extracto": "Genetically modified soybean MON 94313 × MON 89788 was developed by conventional crossing to combine two single events: MON 94313 and MON 89788. The two‐event stack expresses the DMO, PAT, FT_T.1, TDO and CP4 EPSPS proteins to confer tolerance to dicamba‐, glufosinate‐, 2,4‐D‐, mesotrione‐ and glyphosate‐containing herbicides, respectively. The GMO Panel previously assessed the two single soybean events and did not identify safety concerns. No new data on the single soybean events were identified that could lead to modification of the original conclusions on their safety. The molecular characterisation, comparative analysis (agronomic, phenotypic and compositional characteristics) and the outcome of the toxicological, allergenicity and nutritional assessment indicate that the combination of the single soybean events and of the newly expressed proteins in the two‐event stack does not give rise to food and feed safety and nutritional concerns. The GMO Panel concludes that the two‐event stack, as described in this application, is as safe as the comparator and non‐GM reference soybean varieties tested, and no post‐market monitoring of food and feed is considered necessary. In the case of release of processed soybean MON 94313 × MON 89788 or accidental spillage of viable GM soybean seeds into the environment, this would not raise environmental safety concerns. The post‐market environmental monitoring plan and reporting intervals are in line with the intended uses of soybean MON 94313 × MON 89788. The GMO Panel concludes that the two‐event stack is as safe as its non‐GM comparator and the tested non‐GM reference varieties with respect to potential effects on human and animal health and the environment."
+        }
+      ]
+    },
+    {
+      "id": "envases_sostenibilidad",
+      "etiqueta": "Envases y sostenibilidad",
+      "items": [
+        {
+          "id": "celex-32026R2412",
+          "fuente": "EUR-Lex",
+          "tipo": "reglamento",
+          "titulo": "Reglamento (UE) 2026/2412 de la Comisión, de 28 de octubre de 2026, por el que se modifica el anexo I del Reglamento (UE) n.o 10/2011, sobre materiales y objetos plásticos destinados a entrar en contacto con alimentos",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2412",
+          "fecha_publicacion": "2026-10-28",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "envases_sostenibilidad"
+          ],
+          "terminos": [
+            "plasticos"
+          ],
+          "score": 10,
+          "extracto": "Reglamento (UE) 2026/2412 de la Comisión, de 28 de octubre de 2026, por el que se modifica el anexo I del Reglamento (UE) n.o 10/2011, sobre materiales y objetos plásticos destinados a entrar en contacto con alimentos"
+        }
+      ]
+    },
+    {
+      "id": "comercio_exterior",
+      "etiqueta": "Comercio exterior y aranceles",
+      "items": [
+        {
+          "id": "celex-52026XC05634",
+          "fuente": "EUR-Lex",
+          "tipo": "anuncio",
+          "titulo": "Aviso a los operadores económicos — Nueva ronda de solicitudes de suspensión de los derechos autónomos del arancel aduanero común sobre algunos productos industriales y agrícolas",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:52026XC05634",
+          "fecha_publicacion": "2026-10-27",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "comercio_exterior"
+          ],
+          "terminos": [
+            "arancel"
+          ],
+          "score": 10,
+          "extracto": "Aviso a los operadores económicos — Nueva ronda de solicitudes de suspensión de los derechos autónomos del arancel aduanero común sobre algunos productos industriales y agrícolas"
+        }
+      ]
+    },
+    {
+      "id": "ayudas_fiscalidad",
+      "etiqueta": "Ayudas, subvenciones y fiscalidad sectorial",
+      "items": [
+        {
+          "id": "boe-BOE-A-2026-22716",
+          "fuente": "BOE",
+          "tipo": "real_decreto",
+          "titulo": "Real Decreto 922/2026, de 28 de octubre, por el que se establecen las normas reguladoras de la concesión directa de anticipos reembolsables en la forma de préstamos a la empresa Navantia, SA, SME, para el desarrollo tecnológico e industrial de varios programas especiales de modernización de sistemas navales y de desarrollo de capacidades navales de interés para la Defensa.",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22716",
+          "fecha_publicacion": "2026-10-30",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "ayudas_fiscalidad"
+          ],
+          "terminos": [
+            "sme"
+          ],
+          "score": 10,
+          "extracto": "Real Decreto 922/2026, de 28 de octubre, por el que se establecen las normas reguladoras de la concesión directa de anticipos reembolsables en la forma de préstamos a la empresa Navantia, SA, SME, para el desarrollo tecnológico e industrial de varios programas especiales de modernización de sistemas navales y de desarrollo de capacidades navales de interés para la Defensa."
+        }
+      ]
+    }
+  ]
+}

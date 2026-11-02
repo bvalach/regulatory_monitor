@@ -1,0 +1,47 @@
+{
+  "id": "2026-W43",
+  "desde": "2026-10-19",
+  "hasta": "2026-10-25",
+  "generado_en": "2026-11-02T19:55:53Z",
+  "estado_fuentes": {
+    "BOE": {
+      "estado": "ok",
+      "items": 2034
+    },
+    "EUR-Lex": {
+      "estado": "ok",
+      "items": 150
+    },
+    "EFSA": {
+      "estado": "ok",
+      "items": 12
+    }
+  },
+  "sin_novedades": false,
+  "temas": [
+    {
+      "id": "comercio_exterior",
+      "etiqueta": "Comercio exterior y aranceles",
+      "items": [
+        {
+          "id": "boe-BOE-A-2026-22287",
+          "fuente": "BOE",
+          "tipo": "resolucion",
+          "titulo": "Resolución de 16 de octubre de 2026, de ICEX España Exportación e Inversiones, E.P.E., por la que se publica el Convenio con la Asociación Interprofesional del Cerdo Ibérico, para la organización de extensiones de misiones inversas de compradores y/o prescriptores de opinión del sector agroalimentario a celebrar en diversas localidades españolas.",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22287",
+          "fecha_publicacion": "2026-10-24",
+          "fecha_captura": "2026-11-02T19:55:53Z",
+          "temas": [
+            "comercio_exterior"
+          ],
+          "terminos": [
+            "cerdo iberico",
+            "exportacion"
+          ],
+          "score": 22,
+          "extracto": "Resolución de 16 de octubre de 2026, de ICEX España Exportación e Inversiones, E.P.E., por la que se publica el Convenio con la Asociación Interprofesional del Cerdo Ibérico, para la organización de extensiones de misiones inversas de compradores y/o prescriptores de opinión del sector agroalimentario a celebrar en diversas localidades españolas."
+        }
+      ]
+    }
+  ]
+}
