@@ -1,5 +1,73 @@
 [
   {
+    "id": "celex-32019R0787R(10)",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Corrección de errores del Reglamento (UE) 2019/787 del Parlamento Europeo y del Consejo, de 17 de abril de 2019, sobre la definición, designación, presentación y etiquetado de las bebidas espirituosas, la utilización de los nombres de las bebidas espirituosas en la presentación y etiquetado de otros productos alimenticios, la protección de las indicaciones geográficas de las bebidas espirituosas y la utilización de alcohol etílico y destilados de origen agrícola en las bebidas alcohólicas, y por el que se deroga el Reglamento (CE) n.° 110/2008 (DO L 130 de 17.5.2019)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R0787R(10)",
+    "fecha_publicacion": "2026-11-09",
+    "fecha_captura": "2026-11-09T20:20:52Z",
+    "temas": [
+      "etiquetado_consumidor"
+    ],
+    "terminos": [
+      "etiquetado"
+    ],
+    "score": 8,
+    "extracto": "Corrección de errores del Reglamento (UE) 2019/787 del Parlamento Europeo y del Consejo, de 17 de abril de 2019, sobre la definición, designación, presentación y etiquetado de las bebidas espirituosas, la utilización de los nombres de las bebidas espirituosas en la presentación y etiquetado de otros productos alimenticios, la protección de las indicaciones geográficas de las bebidas espirituosas y la utilización de alcohol etílico y destilados de origen agrícola en las bebidas alcohólicas, y por el que se deroga el Reglamento (CE) n.° 110/2008 (DO L 130 de 17.5.2019)"
+  },
+  {
+    "id": "celex-02012R0231-20261108",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento (UE) no 231/2012 de la Comisión, de 9 de marzo de 2012, por el que se establecen especificaciones para los aditivos alimentarios que figuran en los anexos II y III del Reglamento (CE) no 1333/2008 del Parlamento Europeo y del Consejo (Texto pertinente a efectos del EEE)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02012R0231-20261108",
+    "fecha_publicacion": "2026-11-08",
+    "fecha_captura": "2026-11-09T20:20:52Z",
+    "temas": [
+      "aditivos_contaminantes"
+    ],
+    "terminos": [
+      "aditivos"
+    ],
+    "score": 14,
+    "extracto": "Reglamento (UE) no 231/2012 de la Comisión, de 9 de marzo de 2012, por el que se establecen especificaciones para los aditivos alimentarios que figuran en los anexos II y III del Reglamento (CE) no 1333/2008 del Parlamento Europeo y del Consejo (Texto pertinente a efectos del EEE)"
+  },
+  {
+    "id": "celex-32026R2496",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento de Ejecución (UE) 2026/2496 de la Comisión, de 5 de noviembre de 2026, que modifica el anexo I del Reglamento de Ejecución (UE) 2023/594, por el que se establecen medidas especiales de control de la peste porcina africana",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2496",
+    "fecha_publicacion": "2026-11-05",
+    "fecha_captura": "2026-11-09T20:20:52Z",
+    "temas": [
+      "bienestar_sanidad_animal"
+    ],
+    "terminos": [
+      "peste porcina africana"
+    ],
+    "score": 20,
+    "extracto": "Reglamento de Ejecución (UE) 2026/2496 de la Comisión, de 5 de noviembre de 2026, que modifica el anexo I del Reglamento de Ejecución (UE) 2023/594, por el que se establecen medidas especiales de control de la peste porcina africana"
+  },
+  {
+    "id": "boe-BOE-A-2026-23083",
+    "fuente": "BOE",
+    "tipo": "resolucion",
+    "titulo": "Resolución de 26 de octubre de 2026, de la Secretaría General de Recursos Agrarios y Seguridad Alimentaria, por la que se publica la Adenda de modificación al Convenio con la Asociación Española de Agricultura de Conservación Suelos Vivos, para el impulso del conocimiento, la innovación y la divulgación en agricultura de carbono.",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23083",
+    "fecha_publicacion": "2026-11-03",
+    "fecha_captura": "2026-11-09T20:20:52Z",
+    "temas": [
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "seguridad alimentaria"
+    ],
+    "score": 10,
+    "extracto": "Resolución de 26 de octubre de 2026, de la Secretaría General de Recursos Agrarios y Seguridad Alimentaria, por la que se publica la Adenda de modificación al Convenio con la Asociación Española de Agricultura de Conservación Suelos Vivos, para el impulso del conocimiento, la innovación y la divulgación en agricultura de carbono."
+  },
+  {
     "id": "celex-32026R1344",
     "fuente": "EUR-Lex",
     "tipo": "reglamento",
