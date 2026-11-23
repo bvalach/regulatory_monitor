@@ -1,5 +1,163 @@
 [
   {
+    "id": "efsa-10.2903_j.efsa.2026.10417",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Safety and efficacy of the feed additive 5-methyl-2-phenylhex-2-enal [05.099] belonging to chemical group 22 for all animal species (FEFANA asbl)",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10417",
+    "fecha_publicacion": "2026-11-23",
+    "fecha_captura": "2026-11-23T21:51:31Z",
+    "temas": [
+      "aditivos_contaminantes",
+      "etiquetado_consumidor"
+    ],
+    "terminos": [
+      "additives",
+      "consumer"
+    ],
+    "score": 12,
+    "extracto": "Following a request from the European Commission, EFSA was asked to deliver a scientific opinion on the safety and efficacy of 5‐methyl‐2‐phenylhex‐2‐enal [05.099] belonging to chemical group 22 (aryl‐substituted primary alcohol, aldehyde, acid, ester and acetal derivatives), when used as a sensory additive (flavouring) in feed for all animal species. The Panel on Additives and Products or Substances used in Animal Feed (FEEDAP) concludes that 5‐methyl‐2‐phenylhex‐2‐enal [05.099] is safe at the maximum proposed use level of 0.5 mg/kg complete feed for all animal species. No safety concern would arise for the consumer from the use of the additive up to the maximum proposed use level in feed. The additive should be considered as an irritant to skin and eyes and the respiratory tract, and as a dermal and respiratory sensitiser. Exposure of users by any route is considered a risk. The use of 5‐methyl‐2‐phenylhex‐2‐enal [05.099] as a flavour in animal feed was not expected to pose a risk to the environment. Since the compound under assessment is used in food as flavouring and its function in feed is essentially the same as that in food, no further demonstration of efficacy was considered necessary."
+  },
+  {
+    "id": "efsa-10.2903_j.efsa.2026.11368",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Assessment of new information on genetically modified maize MON 89034",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.11368",
+    "fecha_publicacion": "2026-11-23",
+    "fecha_captura": "2026-11-23T21:51:31Z",
+    "temas": [
+      "bienestar_sanidad_animal"
+    ],
+    "terminos": [
+      "animal health"
+    ],
+    "score": 8,
+    "extracto": "Genetically modified (GM) maize MON 89034 expresses two insecticidal proteins, Cry1A.105 and Cry2Ab2, to confer protection against certain lepidopteran pests. This event was previously assessed by the GMO Panel as a single event and as part of multiple stacks and was found to be as safe as its conventional counterpart and the tested non‐GM reference varieties with respect to potential effects on human health, animal health and the environment. On April 2026, the European Commission requested EFSA to evaluate new N‐terminal amino acid sequence information, structural modelling and bioinformatic analysis which revealed that the Cry2Ab2 is expressed in maize MON 89034 in two variants (Cry2Ab2.820 and Cry2Ab2.820.1) differing by one N‐terminal amino acid. The sequence difference does not affect the conserved protein core, or the expected mode of action. The updated bioinformatic analyses identified no significant similarities of the newly characterised protein variant to known toxins, allergens or immunogenic gluten‐related epitopes. Thus, the EFSA GMO Panel concludes that the new information provided by the applicant on maize MON 89034 does not alter EFSA's previous conclusions. This information will be taken into account in the ongoing assessments of events containing the single maize event MON 89034."
+  },
+  {
+    "id": "boe-BOE-A-2026-24494",
+    "fuente": "BOE",
+    "tipo": "resolucion",
+    "titulo": "Resolución de 6 de noviembre de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Comunidad Autónoma de Castilla-La Mancha, para la conservación de las estirpes de cerdo ibérico Torbiscal y Guadyerbas en el Centro de Investigaciones Agropecuarias «Dehesón del Encinar».",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24494",
+    "fecha_publicacion": "2026-11-21",
+    "fecha_captura": "2026-11-23T21:51:31Z",
+    "temas": [
+      "otros"
+    ],
+    "terminos": [
+      "cerdo iberico"
+    ],
+    "score": 18,
+    "extracto": "Resolución de 6 de noviembre de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Comunidad Autónoma de Castilla-La Mancha, para la conservación de las estirpes de cerdo ibérico Torbiscal y Guadyerbas en el Centro de Investigaciones Agropecuarias «Dehesón del Encinar»."
+  },
+  {
+    "id": "boe-BOE-A-2026-24311",
+    "fuente": "BOE",
+    "tipo": "real_decreto",
+    "titulo": "Real Decreto 1020/2026, de 18 de noviembre, por el que se regula la concesión directa de una subvención al Centro Nacional de Tecnología y Seguridad Alimentaria para el programa «Sandbox AgriFoodTech», con cargo al ejercicio 2026.",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24311",
+    "fecha_publicacion": "2026-11-20",
+    "fecha_captura": "2026-11-23T21:51:31Z",
+    "temas": [
+      "higiene_seguridad"
+    ],
+    "terminos": [
+      "seguridad alimentaria"
+    ],
+    "score": 10,
+    "extracto": "Real Decreto 1020/2026, de 18 de noviembre, por el que se regula la concesión directa de una subvención al Centro Nacional de Tecnología y Seguridad Alimentaria para el programa «Sandbox AgriFoodTech», con cargo al ejercicio 2026."
+  },
+  {
+    "id": "efsa-10.2903_j.efsa.2026.10414",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Safety and efficacy of feed additives consisting of tinctures from Rosa canina L.: Rosehip shell tincture for horses and rosehip tincture for all animal species (FEFANA asbl)",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10414",
+    "fecha_publicacion": "2026-11-17",
+    "fecha_captura": "2026-11-23T21:51:31Z",
+    "temas": [
+      "aditivos_contaminantes",
+      "etiquetado_consumidor"
+    ],
+    "terminos": [
+      "additives",
+      "consumer"
+    ],
+    "score": 19,
+    "extracto": "Following a request from the European Commission, EFSA was asked to deliver a scientific opinion on the safety and efficacy of two tinctures obtained from the rosehip shells (rosehip shell tincture) or rosehip (rosehip tincture) of Rosa canina L. when used as sensory additives. The additives are water/ethanol tinctures, with a specified dry matter content of up to 11.0% (w/w) (for rosehip shell tincture) and in the range of 0.75%–1.80% (w/w) (for rosehip tincture). Rosehip shell tincture is proposed for use in feed for horses, while rosehip tincture is intended for use in feed or water for drinking for all animal species. The EFSA Panel on Additives and Products or Substances used in Animal Feed (FEEDAP) concluded that rosehip shell tincture is safe for horses at the maximum proposed use level of 2000 mg/kg complete feed. Rosehip tincture is safe for horses at the maximum proposed use level of 500 mg/kg complete feed and for all other animal species at 50 mg/kg complete feed. The FEEDAP Panel considered that the use of rosehip tincture in water for drinking alone or in combination with its use in feed is safe provided that the daily amount resulting from the exposure via feed alone at the maximum use level is not exceeded. No safety concern would arise for the consumer and the environment from the use of rosehip shell tincture or rosehip tincture in feed. The additives under assessment should be considered as irritant to skin and eyes and as dermal and respiratory sensitisers. Exposure of users by any route is considered a risk. Since rosehip preparations are recognised to flavour food and their function in feed would be essentially the same as that in food, no further demonstration of efficacy is considered necessary for rosehip shell tincture and rosehip tincture."
+  },
+  {
+    "id": "efsa-10.2903_j.efsa.2026.10428",
+    "fuente": "EFSA",
+    "tipo": "opinion_cientifica",
+    "titulo": "Wild boar-related factors relevant to African swine fever epidemiology, surveillance and control in the European Union",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10428",
+    "fecha_publicacion": "2026-11-16",
+    "fecha_captura": "2026-11-23T21:51:31Z",
+    "temas": [
+      "bienestar_sanidad_animal"
+    ],
+    "terminos": [
+      "african swine fever",
+      "swine"
+    ],
+    "score": 32,
+    "extracto": "This report evaluates wild boar movement and behaviour, wild boar carcass search and dating, and factors associated with wild boar density and African swine fever (ASF) epidemiology. Global Positioning System (GPS) collar data from wild boar in ASF‐free areas were analysed to quantify movement and behavioural patterns. At the 14‐day scale, wild boar movements were predominantly local but rare long‐distance movements occurred which may contribute to sporadic ASF spread. Monitored wild boar with pig farms within their home ranges occasionally came in proximity ("
+  },
+  {
+    "id": "celex-32026R2527",
+    "fuente": "EUR-Lex",
+    "tipo": "reglamento",
+    "titulo": "Reglamento (UE) 2026/2527 de la Comisión, de 16 de noviembre de 2026, por el que se modifican los anexos IV, VI y VIII del Reglamento (UE) n.o 142/2011 en lo que respecta a la lista de Estados miembros autorizados a utilizar determinados subproductos animales para la alimentación de determinadas especies de aves necrófagas, así como a la eliminación, el uso y el marcado de determinados combustibles renovables",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R2527",
+    "fecha_publicacion": "2026-11-16",
+    "fecha_captura": "2026-11-23T21:51:31Z",
+    "temas": [
+      "subproductos_sandach"
+    ],
+    "terminos": [
+      "subproductos animales"
+    ],
+    "score": 18,
+    "extracto": "Reglamento (UE) 2026/2527 de la Comisión, de 16 de noviembre de 2026, por el que se modifican los anexos IV, VI y VIII del Reglamento (UE) n.o 142/2011 en lo que respecta a la lista de Estados miembros autorizados a utilizar determinados subproductos animales para la alimentación de determinadas especies de aves necrófagas, así como a la eliminación, el uso y el marcado de determinados combustibles renovables"
+  },
+  {
+    "id": "boe-BOE-A-2026-23896",
+    "fuente": "BOE",
+    "tipo": "resolucion",
+    "titulo": "Resolución de 12 de noviembre de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios máximos de venta, antes de impuestos, del butano comercial envasado en envases de carga igual o superior a 8 kg, e inferior a 20 kg, excluidos los envases de mezcla para usos de los gases licuados del petróleo como carburante.",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23896",
+    "fecha_publicacion": "2026-11-16",
+    "fecha_captura": "2026-11-23T21:51:31Z",
+    "temas": [
+      "envases_sostenibilidad"
+    ],
+    "terminos": [
+      "envases"
+    ],
+    "score": 16,
+    "extracto": "Resolución de 12 de noviembre de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios máximos de venta, antes de impuestos, del butano comercial envasado en envases de carga igual o superior a 8 kg, e inferior a 20 kg, excluidos los envases de mezcla para usos de los gases licuados del petróleo como carburante."
+  },
+  {
+    "id": "boe-BOE-A-2026-23897",
+    "fuente": "BOE",
+    "tipo": "otro",
+    "titulo": "Sentencia de 15 de octubre de 2026, de la Sala Tercera del Tribunal Supremo, que estima el recurso contencioso-administrativo 396/2025, interpuesto en nombre y representación de la Asociación Regional Andaluza de Productores de Ganado Porcino y de la Dehesa Española contra el Real Decreto 809/2025, de 16 de septiembre, por el que se modifica el Real Decreto 1135/2002, de 31 de octubre, relativo a las normas mínimas para la protección de cerdos.",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23897",
+    "fecha_publicacion": "2026-11-16",
+    "fecha_captura": "2026-11-23T21:51:31Z",
+    "temas": [
+      "bienestar_sanidad_animal"
+    ],
+    "terminos": [
+      "porcino"
+    ],
+    "score": 12,
+    "extracto": "Sentencia de 15 de octubre de 2026, de la Sala Tercera del Tribunal Supremo, que estima el recurso contencioso-administrativo 396/2025, interpuesto en nombre y representación de la Asociación Regional Andaluza de Productores de Ganado Porcino y de la Dehesa Española contra el Real Decreto 809/2025, de 16 de septiembre, por el que se modifica el Real Decreto 1135/2002, de 31 de octubre, relativo a las normas mínimas para la protección de cerdos."
+  },
+  {
     "id": "celex-32026R1344",
     "fuente": "EUR-Lex",
     "tipo": "reglamento",
